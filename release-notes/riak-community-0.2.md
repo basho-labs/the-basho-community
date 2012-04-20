@@ -2,6 +2,7 @@ Riak Community v0.2 is slated for Tuesday, May 1st.
 
 ### Release Notes - The Riak Community v0.2
 
+* Mark Phillips [reworked](https://github.com/basho/riak_wiki/commit/991b0f8dee22f31a6b2b2039c08393e9534b359f) the [front page](http://wiki.basho.com/Riak.html) of the Riak Wiki [**April 20**]
 * Zachary Fox released [riak-php-sessions](https://github.com/zacharyfox/riak-php-sessions), a PHP Session Handler using Riak as a datastore. [**April 20**]
 * Aphyr [added support](https://twitter.com/#!/aphyr/status/193084567169671169) to Reiman-tools to monitor Riak health and stats. [**April 20**]
 * Dietrich Featherston and the The Boundary Team [published a blog post](http://blog.boundary.com/2012/04/19/hungry-kobayashi-pt1/) about their Riak cluster. [**April 19**]
