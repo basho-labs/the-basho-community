@@ -3,28 +3,29 @@ The Riak Community
 
 There are many components to a successful open source software project. Code (and code quality) is only the first of many, and lot of times it's not the most important (for better or for worse). A Community is built around the code to help foster its growth, maturity, and adoption. Like the code, it needs to evolve, and unless it's moving forward and being refined continuously, it ceases to be valuable. 
 
-I want to introduce the idea of "The Riak Community" as a releasable product. 
+I want to introduce the idea of "The Riak Community" as a releasable product. Why not approach community development like you would code? What if there were scheduled "releases" comprised of new "features" and "bug fixes"? 
 
-Each new release will signify the evolution of the Community: new docs will have been written; new talks will have been given;new slide decks will have been created; process flaws will have been unearthed and rectified. 
+The idea is simple: each month we cut a new release of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](/release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
 
-So why not approach community development like you would code? What if there were "release cycles", "bugs", and issues
+### The Goal
 
+The goal is to periodically tag and release "versions" of The Riak Community. New versions will be packed with accomplishments and contributions from various community members, and bug fixes for things we've found that are inhibiting Riak growth and adoption. With each new release, we'll have advanced the Community in myriad ways (even if we didn't have a set "road map"). 
+
+Each new release will represent the evolution of the Community: new docs will have been written; new talks will have been given; new slide decks will have been created; process flaws will have been unearthed and rectified. All of this moves the community forward and makes it a better place to work and play.
+ 
 This will be a way for us to track the progression of the community over time and build the community in a more collaborative, transparent way. There are people all over the world contributing to the growth of Riak in endless ways. This is an attempt at capturing and showcasing that growth.
 
-### What Should Be Part Of A Community Release?
+### What Should Be Part of a Riak Community Release? 
 
-For the purposes of this project, a community release can include anything that's not code and that contributes to the advancement of the community as a whole. Some examples:
+For the purposes of this project, a community release can include anything that's not code or features additions and that contributes to the advancement of the community as a whole. A partial list of examples:
 
 * A blog post about your team's Riak usage
 * A slide deck you used at a local meetup
+* The time you spent to clean up your PHP ORM and open source it 
 * Documentation you contributed for the Python client 
 * A screencast we made to show new Riak Search features
 * The 30 minutes you spent in the Mailing List to help a newcomer
 * Adding the [Powered By Riak badge](http://wiki.basho.com/We-Run-Riak-Badges.html) to your site 
-
-### How To Contribute And Use This Repo
-
-1. Open an issue or a pull request with what you have contribute (applying tags as appropriate)
 
 ### Release Cycles and Versioning 
 
@@ -33,19 +34,22 @@ We probably won't get too in-depth with the versioning and release cycles. For n
 * A new release of the Riak Community will happen on the first work day of each month (time and resource-permitting)
 * Each new version will be a minor version increase (i.e. "v.0.2" will follow "v.0.1")
 
+### Contribution Process 
+
+1. Open a pull request with details on your (or someone else's) contribution. Your contribution should be added to the [current release notes](/releases) and should be be a short description of what you're adding with a link to related materials when applicable.
+2. Someone with commit rights to the repo will close the PR and you and your accomplishment will be added to the forthcoming Riak Community Release
+3. Profit!
+
 ### Bugs 
 
-In addition to "enhancements,"
+In addition to contributions like the ones noted above, there are certainly "bugs" in the Riak Community. (In my opinion, there are a lot of existing bugs that need fixing.) A few examples would be "Make the Riak Installation Docs more straightforward" or "Better articulate the Riak Python Client Code Contribution process".  
 
+If you find a bug:
 
-### How To Contribute 
-### Tags 
+* Open a [new issue](https://github.com/pharkmillups/the-riak-community/issues?labels=&state=open)
+* Do what you can to fix it and keep an eye on its progress
 
-Meetup
-Conference
-Blog
-Documentation
-Bugs
+### This is an Experiment 
 
-
+We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. Feel free to email me - **mark@basho.com** - if you think this idea is ruining the internet. 
 
