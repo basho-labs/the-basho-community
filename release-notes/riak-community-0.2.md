@@ -1,4 +1,4 @@
-Riak Community v0.2 is slate for Tuesday, May 1st. 
+Riak Community v0.2 is slated for Tuesday, May 1st. 
 
 ### Release Notes - The Riak Community v0.2
 
