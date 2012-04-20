@@ -47,10 +47,13 @@ In addition to contributions like the ones noted above, there are certainly "bug
 
 If you find a bug:
 
-* Open a [new issue](https://github.com/pharkmillups/the-riak-community/issues?labels=&state=open)
-* Do what you can to fix it and keep an eye on its progress
+1. Open a [new issue](https://github.com/pharkmillups/the-riak-community/issues?labels=&state=open)
+2. Do what you can to fix it and keep an eye on its progress
 
 ### This is an Experiment 
 
-We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. Feel free to email me - **mark@basho.com** - if you think this idea is ruining the internet. 
+We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. 
 
+### Comments and Feedback
+
+Feel free to email me - **mark@basho.com** - if you think this idea is ruining the internet. 
