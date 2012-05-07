@@ -1,6 +1,6 @@
-Riak Community v0.2 is slated for Tuesday, May 1st. 
-
 # Release Notes - The Riak Community v0.2
+
+The following release notes chronicle the key events that happened in the Riak Community from April 1st thru May 3rd. If you have something contribute, [please submit a pull request](https://github.com/basho/the-riak-community/pulls). (We want everything the community has done, so don't hesitate to add something for a past set of release notes.)hhaa
 
 ### Blog Posts and Podcasts 
 
