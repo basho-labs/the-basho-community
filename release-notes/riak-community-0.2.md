@@ -3,9 +3,9 @@
 The following release notes chronicle the key events that happened in the Riak Community from April 1st thru May 3rd. If you have something contribute, [please submit a pull request](https://github.com/basho/the-riak-community/pulls). (We want everything the community has done, so don't hesitate to add something for a past set of release notes.)hhaa
 
 ### Blog Posts and Podcasts 
-
-* The team at Three Pillar Global published [their second of three blog posts](http://www.threepillarglobal.com/node/324) about Riak's MapReduce.[**May 1**]  
+  
 * The team at Three Pillar Global published [their last of three blog posts](http://www.threepillarglobal.com/node/325) about Riak's MapReduce.[**May 3**]
+* The team at Three Pillar Global published [their second of three blog posts](http://www.threepillarglobal.com/node/324) about Riak's MapReduce.[**May 1**]
 * Basho [wrote a blog post](http://basho.com/blog/technical/2012/04/30/Basho-office-in-Cambridge-is-all-new/) about their new office in Cambridge, MA. [**April 30**]
 * Mathias Meyer [did a podcast](http://www.engineyard.com/podcast/data-based-part-1-mathias-meyer-and-the-riak-handbook) with Ines Sombra of Engine Yard all about The Riak Handbook and Travis CI. [**April 30**]
 * Siguniang [wrote a blog post](http://siguniang.wordpress.com/2012/04/28/install-riak-on-ubuntu-12-04/) [**April 28**]
@@ -20,7 +20,7 @@ The following release notes chronicle the key events that happened in the Riak C
 * Srdjan Pejic wrote a [lengthy blog post](http://batasrki.github.com/blog/2012/04/22/riak-and-vagrant/) about using Riak and Vagrant. [**April 22**]
 * Dietrich Featherston and the The Boundary Team [published a blog post](http://blog.boundary.com/2012/04/19/hungry-kobayashi-pt1/) about their Riak cluster. [**April 19**]
 * StackMob [wrote a blog post](http://www.stackmob.com/2012/04/opensourcescaliak/) about their new Scala client for Riak and how they're using it in production. [**April 18**]
-* The team at Kiip.me [wrote a blog post](http://blog.engineering.kiip.me/post/20988881092/a-year-with-mongodb) about their switch from to Riak and PostgreSQL. [**April 14**]
+* The team at Kiip.me [wrote a blog post](http://blog.engineering.kiip.me/post/20988881092/a-year-with-mongodb) about their switch from MongoDB to Riak and PostgreSQL. [**April 14**]
 * IBM developerWorks [translated Simon Buckle's Riak piece into Japanese](http://www.ibm.com/developerworks/jp/opensource/library/os-riak1/). [**April 12**]
 * Christiano Anderson wrote the [first blog post about Riak in Portuguese](http://christiano.me/2012/04/11/riak-um-nosql-que-me-surpreendeu/). [**April 11**]
 * Tom Arnfeld wrote up instructions on [bootstrapping Riak on Ubuntu 11.10](http://blog.tarnfeld.com/post/20804301749/riak-bootstrap-for-ubuntu-11-10) [**April 9**]
