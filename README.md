@@ -7,8 +7,7 @@ I want to introduce the idea of "The Riak Community" as a releasable product. Wh
 
 The idea is simple: each month we cut a "new release" of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](https://github.com/basho/the-riak-community/tree/master/release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
 
-* The latest Release Notes are [v0.2](https://github.com/basho/the-riak-community/blob/master/release-notes/riak-community-0.2.md), tagged on May 7th
-* If you would like to contribute something to a past or future release, the overly-complex process is [here](#contributing)
+The latest Release Notes are [v0.2](https://github.com/basho/the-riak-community/blob/master/release-notes/riak-community-0.2.md), tagged on May 7th.  If you would like to contribute something to a past or future release, the overly-complex process is [here](#contributing)
 
 ### The Goal
 
@@ -20,13 +19,13 @@ Finally, this will be a way for us to track the progression of the community ove
 
 ### What Should Be Part of a Riak Community Release? 
 
-For the purposes of this project, a community release can include anything that's not code (though related to code - like "released my new Small talk client - should definite) and that contributes to the advancement of the community as a whole. A partial list of examples:
+For the purposes of this project, a community release can include anything that's not code, though work related to code (e.g. releasing a new client library definitely counts).  Basically anything that contributes to the advancement of the community as a whole. A partial list of examples:
 
 * A blog post about your team's Riak usage
 * A presentation at a local meetup and accompanying slide deck
-* Releasing your PHP ORM and open source it 
+* Releasing your PHP ORM and open sourceing it 
 * Documentation you contributed for the Python client 
-* A screencast we made to show new Riak Search features
+* A screencast Basho made to show new Riak Search features
 * The 30 minutes you spent in the Mailing List to help a newcomer
 * Adding the [Powered By Riak badge](http://wiki.basho.com/We-Run-Riak-Badges.html) to your site 
 
@@ -44,4 +43,4 @@ We probably won't get too in-depth with the versioning and release cycles. For n
 
 ### This is an Experiment 
 
-We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. Also, if you think this idea is ruining the internet or if there is a way to do this more effectively, please email me  - **mark@basho.com**. 
+We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. Also, if you think this idea is ruining the internet, or if there is a way to do this more effectively, please email me  - **mark@basho.com**. 
