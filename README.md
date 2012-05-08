@@ -5,7 +5,9 @@ There are many components to a successful open source software project. Code (an
 
 I want to introduce the idea of "The Riak Community" as a releasable product. Why not approach community development like you would code? What if there were scheduled "releases" comprised of new "features" and "bug fixes"? 
 
-The idea is simple: each month we cut a new release of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](https://github.com/basho/the-riak-community/tree/master/release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
+The idea is simple: each month we cut a "new release" of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](https://github.com/basho/the-riak-community/tree/master/release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
+
+**The latest Release Notes are [v0.2](https://github.com/basho/the-riak-community/blob/master/release-notes/riak-community-0.2.md), tagged on May 7th.**
 
 ### The Goal
 
@@ -13,7 +15,7 @@ The goal is to periodically tag and release "versions" of The Riak Community. Ne
 
 Each subsequent release will represent the evolution of the Community: new docs will have been written; new talks will have been given; new slide decks will have been created; process flaws will have been unearthed and rectified. All of this moves the community forward and makes it a better place to work and play.
  
-This will be a way for us to track the progression of the community over time and build the community in a more collaborative, transparent way. There are people all over the world contributing to the growth of Riak in endless ways. This is an attempt at capturing and showcasing that growth.
+Finally, this will be a way for us to track the progression of the community over time and build the community in a more collaborative, transparent way. There are people all over the world contributing to the growth of Riak in endless ways. This is an attempt at capturing and showcasing that growth.
 
 ### What Should Be Part of a Riak Community Release? 
 
@@ -34,17 +36,11 @@ We probably won't get too in-depth with the versioning and release cycles. For n
 * A new release of the Riak Community will happen on the first work day of each month (time and resource-permitting)
 * Each new version will be a minor version increase (i.e. "v0.2" will follow "v0.1")
 
-**The Riak community is still young. It's current version is v0.1**. 
-
-### Contribution Process 
+### Contributing
 
 1. Open a [pull request](https://github.com/basho/the-riak-community/pull/new/master) with details on your (or someone else's) contribution. Your contribution should be added to the [current release notes](https://github.com/basho/the-riak-community/tree/master/release-notes) and should be be a short description of what you're adding with a link to related materials when applicable
 2. Someone with commit rights to the repo will close the PR and you and your contribution will be added to the forthcoming Riak Community Release
 
 ### This is an Experiment 
 
-We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. 
-
-### Comments and Feedback
-
-Feel free to email me - **mark@basho.com** - if you think this idea is ruining the internet. 
+We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. Also, if you think this idea is ruining the internet or if there is a way to do this more effectively, please email me  - **mark@basho.com**. 

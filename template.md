@@ -14,6 +14,8 @@ Jump to:
 * [Other Awesome Things Riak Users Did](#other-awesome-things-riak-users-did)
 * [New Known Production Deployments](#new-known-production-deploys)
 
+----
+
 ### Blog Posts and Podcasts 
 
 ### Documentation 

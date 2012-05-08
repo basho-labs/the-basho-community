@@ -11,6 +11,8 @@ Jump to:
 * [Other Awesome Things Riak Users Did](#other-awesome-things-riak-users-did)
 * [New Known Production Deployments](#new-known-production-deploys)
 
+----
+
 ### Blog Posts and Podcasts
   
 * The team at Three Pillar Global published [their last of three blog posts](http://www.threepillarglobal.com/node/325) about Riak's MapReduce.[**May 3**]
