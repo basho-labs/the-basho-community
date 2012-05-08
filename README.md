@@ -5,11 +5,11 @@ There are many components to a successful open source software project. Code (an
 
 I want to introduce the idea of "The Riak Community" as a releasable product. Why not approach community development like you would code? What if there were scheduled "releases" comprised of new "features" and "bug fixes"? 
 
-The idea is simple: each month we cut a new release of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](./release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
+The idea is simple: each month we cut a new release of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](https://github.com/basho/the-riak-community/tree/master/release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
 
 ### The Goal
 
-The goal is to periodically tag and release "versions" of The Riak Community. New versions will be packed with accomplishments and contributions from various community members along with bug fixes for things we've found that are inhibiting Riak growth and adoption. With each new release, we'll have advanced the Community in myriad ways (even if we didn't have a set "road map"). 
+The goal is to periodically tag and release "versions" of The Riak Community. New versions will be packed with accomplishments and contributions from various community members. With each new release, we'll have advanced the Community in myriad ways (even if we didn't have a set "road map"). 
 
 Each subsequent release will represent the evolution of the Community: new docs will have been written; new talks will have been given; new slide decks will have been created; process flaws will have been unearthed and rectified. All of this moves the community forward and makes it a better place to work and play.
  
@@ -38,8 +38,8 @@ We probably won't get too in-depth with the versioning and release cycles. For n
 
 ### Contribution Process 
 
-1. Open a pull request with details on your (or someone else's) contribution. Your contribution should be added to the [current release notes](/releases) and should be be a short description of what you're adding with a link to related materials when applicable
-2. Someone with commit rights to the repo will close the PR and you and your accomplishment will be added to the forthcoming Riak Community Release
+1. Open a [pull request](https://github.com/basho/the-riak-community/pull/new/master) with details on your (or someone else's) contribution. Your contribution should be added to the [current release notes](https://github.com/basho/the-riak-community/tree/master/release-notes) and should be be a short description of what you're adding with a link to related materials when applicable
+2. Someone with commit rights to the repo will close the PR and you and your contribution will be added to the forthcoming Riak Community Release
 
 ### This is an Experiment 
 
