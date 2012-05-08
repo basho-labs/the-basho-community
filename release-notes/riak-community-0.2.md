@@ -81,8 +81,8 @@ Jump to:
 * SEOmoz [announced $18MM in new funding](http://www.forbes.com/sites/kellyclay/2012/05/01/seomoz-raises-18-million-in-venture-capital-from-foundry-group-and-ignition-partners/). [**May 1**] 
 * Basho released [Riak Badges](http://basho.com/blog/technical/2012/04/18/Tell-the-World-About-Riak/) [**April 18**]
 * Voxer [announced $30MM in new funding](http://techcrunch.com/2012/04/11/walkie-talkie-app-voxer-goes-big-ivp-and-intel-lead-30-million-round/). [**April 11**]
-* Ken Perkins of Clipboard [welcomed a new daughter](https://twitter.com/#!/kenperkins/status/182137868121153536) to his family. 
 * Matt Ranney of Voxer [welcomed a new addition](http://mranney.com/post/20895857144/hey-look-we-have-a-baby-he-was-born-in-our-home) to his family. [**April 10**]
+* Ken Perkins of Clipboard [welcomed a new daughter](https://twitter.com/#!/kenperkins/status/182137868121153536) to his family. [**March**]
 
 ### New Known Production Deployments 
 
