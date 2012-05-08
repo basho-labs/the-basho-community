@@ -7,7 +7,7 @@ I want to introduce the idea of "The Riak Community" as a releasable product. Wh
 
 The idea is simple: each month we cut a "new release" of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](https://github.com/basho/the-riak-community/tree/master/release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
 
-The latest Release Notes are [v0.2](https://github.com/basho/the-riak-community/blob/master/release-notes/riak-community-0.2.md), tagged on May 7th.  If you would like to contribute something to a past or future release, the overly-complex process is [here](#contributing)
+The latest Release Notes are [v0.2](https://github.com/basho/the-riak-community/blob/master/release-notes/riak-community-0.2.md), tagged on May 7th.  If you would like to contribute something to a past or future release, the overly-complex process is [here](#contributing).
 
 ### The Goal
 
@@ -38,7 +38,7 @@ We probably won't get too in-depth with the versioning and release cycles. For n
 
 ### Contributing
 
-1. Open a [pull request](https://github.com/basho/the-riak-community/pull/new/master) with details on your (or someone else's) contribution. Your contribution should be added to the [current release notes](https://github.com/basho/the-riak-community/tree/master/release-notes) and should be be a short description of what you're adding with a link to related materials when applicable
+1. Open a [pull request](https://github.com/basho/the-riak-community/pull/new/master) with details on your (or someone else's) contribution. Your contribution should be added to the appropriate [release notes](https://github.com/basho/the-riak-community/tree/master/release-notes) (they are all dated) and should be be a short description of what you're adding with a link to related materials
 2. Someone with commit rights to the repo will close the PR and you and your contribution will be added to the forthcoming Riak Community Release
 
 ### This is an Experiment 
