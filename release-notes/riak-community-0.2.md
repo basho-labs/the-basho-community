@@ -1,8 +1,17 @@
 # Release Notes - The Riak Community v0.2
 
-The following release notes chronicle the key events that happened in the Riak Community from April 1st thru May 3rd. If you have something contribute, [please submit a pull request](https://github.com/basho/the-riak-community/pulls). (We want everything the community has done, so don't hesitate to add something for a past set of release notes.)hhaa
+The following release notes chronicle the key events that happened in the Riak Community from April 1st thru May 3rd. If you have something contribute, [please submit a pull request](https://github.com/basho/the-riak-community/pulls). (We want everything the community has done, so don't hesitate to add something for a past set of release notes.)
 
-### Blog Posts and Podcasts 
+Jump to:
+
+* [Blog Posts and Podcasts](#blog-posts-and-podcasts) 
+* [Documentation](#documenation)
+* [Meetups](#meetups)
+* [Talks, Slide Decks, and Other Preso](#talks-slide-decks-and-other-presos)
+* [Other Awesome Things Riak Users Did](#other-awesome-things-riak-users-did)
+* [New Known Production Deployments](#new-known-production-deploys)
+
+### Blog Posts and Podcasts
   
 * The team at Three Pillar Global published [their last of three blog posts](http://www.threepillarglobal.com/node/325) about Riak's MapReduce.[**May 3**]
 * The team at Three Pillar Global published [their second of three blog posts](http://www.threepillarglobal.com/node/324) about Riak's MapReduce.[**May 1**]
@@ -47,7 +56,7 @@ The following release notes chronicle the key events that happened in the Riak C
 * The team a Presi [released a slide deck](http://prezi.com/qpc9flfkdvzz/riak-prezi/) that talks about how and why they are using Riak. [**April 24**]
 * John Leach [released his slides](http://johnleach.co.uk/downloads/slides/riak-consistent-hashing.pdf) from the consistent hashing talk at the inaugural Riak London Meetup. [**April 22**]
 * Will Farrington of High Groove [presented on Riak](http://speakerdeck.com/u/wfarr/p/learn-you-some-riak) at the [Atlanta Ruby Meetup](http://www.meetup.com/atlantaruby/events/53215152/) [**April 11**]
-* [Ian Plosker](twitter.com/DstroyAllModels) presented on Riak at the RIT++ Conference in Moscow. ([Slides](http://www.slideshare.net/profyclub_ru/introduction-to-riak-ian-plosker)). [**April 2**]
+* [Ian Plosker](twitter.com/DstroyAllModels) presented on Riak at the RIT++ Conference in Moscow. ([Slides](http://www.slideshare.net/p	rofyclub_ru/introduction-to-riak-ian-plosker)). [**April 2**]
 
 
 ### Code Releases 
@@ -63,13 +72,10 @@ The following release notes chronicle the key events that happened in the Riak C
 * Pavlo Baron released [riak_mongo](https://github.com/pavlobaron/riak_mongo), a library to help people migrate off of MongoDB. [**April 6**]
 * Basho [announced the availability of Riak 1.1.2 RC1](http://lists.basho.com/pipermail/riak-users_lists.basho.com/2012-April/008065.html). [**April 6**]
 
-### Community Code Contributions
-
-
-
 ### Other Awesome Things Riak Users Did
 
 * Shunichi Shinohara [tweeted a photo](https://twitter.com/#!/itawasa/status/198430879629058048) of the Riak logo and the GitHub Octocat spotted in the wild together. [**May 4**]
+* Prezi [passed 10MM users](http://thenextweb.com/apps/2012/05/02/prezi-passes-10-million-user-mark-and-introduces-handy-powerpoint-import/)
 * SEOmoz [announced $18MM in new funding](http://www.forbes.com/sites/kellyclay/2012/05/01/seomoz-raises-18-million-in-venture-capital-from-foundry-group-and-ignition-partners/). [**May 1**] 
 * Basho released [Riak Badges](http://basho.com/blog/technical/2012/04/18/Tell-the-World-About-Riak/) [**April 18**]
 * Voxer [announced $30MM in new funding](http://techcrunch.com/2012/04/11/walkie-talkie-app-voxer-goes-big-ivp-and-intel-lead-30-million-round/). [**April 11**]
@@ -80,7 +86,7 @@ The following release notes chronicle the key events that happened in the Riak C
 
 * Ocera 
 * Kiip.me 
-* Whisper Networks 
+* Whisper (via Inaka Networks)
 * Prezi
 
 
