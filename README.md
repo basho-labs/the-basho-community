@@ -41,15 +41,6 @@ We probably won't get too in-depth with the versioning and release cycles. For n
 1. Open a pull request with details on your (or someone else's) contribution. Your contribution should be added to the [current release notes](/releases) and should be be a short description of what you're adding with a link to related materials when applicable
 2. Someone with commit rights to the repo will close the PR and you and your accomplishment will be added to the forthcoming Riak Community Release
 
-### Bugs 
-
-In addition to contributions like the ones noted above, there are certainly "bugs" in the Riak Community. (In my opinion, there are a lot of existing bugs that need fixing.) A few examples would be "Make the Riak Installation Docs more straightforward" or "Better articulate the Riak Python Client Code Contribution process".  
-
-If you find a bug:
-
-1. Open a [new issue](https://github.com/pharkmillups/the-riak-community/issues?labels=&state=open)
-2. Do what you can to fix it and keep an eye on its progress
-
 ### This is an Experiment 
 
 We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. 
