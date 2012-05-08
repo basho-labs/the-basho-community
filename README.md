@@ -7,7 +7,8 @@ I want to introduce the idea of "The Riak Community" as a releasable product. Wh
 
 The idea is simple: each month we cut a "new release" of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](https://github.com/basho/the-riak-community/tree/master/release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
 
-**The latest Release Notes are [v0.2](https://github.com/basho/the-riak-community/blob/master/release-notes/riak-community-0.2.md), tagged on May 7th.**
+* The latest Release Notes are [v0.2](https://github.com/basho/the-riak-community/blob/master/release-notes/riak-community-0.2.md), tagged on May 7th
+* If you would like to contribute something to a past or future release, the overly-complex process is [here](#contributing)
 
 ### The Goal
 
