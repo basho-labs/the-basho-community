@@ -5,7 +5,7 @@ There are many components to a successful open source software project. Code (an
 
 I want to introduce the idea of "The Riak Community" as a releasable product. Why not approach community development like you would code? What if there were scheduled "releases" comprised of new "features" and "bug fixes"? 
 
-The idea is simple: each month we cut a new release of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](/release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
+The idea is simple: each month we cut a new release of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](./release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
 
 ### The Goal
 
