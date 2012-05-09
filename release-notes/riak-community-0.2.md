@@ -5,7 +5,7 @@ The following release notes chronicle the key events that happened in the Riak C
 Jump to:
 
 * [Blog Posts and Podcasts](#blog-posts-and-podcasts) 
-* [Documentation](#documenation)
+* [Documentation](#documentation)
 * [Meetups](#meetups)
 * [Talks, Slide Decks, and Other Preso](#talks-slide-decks-and-other-presos)
 * [Other Awesome Things Riak Users Did](#other-awesome-things-riak-users-did)
