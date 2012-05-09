@@ -49,6 +49,7 @@ Jump to:
 
 * The [Riak London meetup](http://www.meetup.com/riak-london/events/62061262/) was officially announced. [**May 2**]
 * Tom Santero represented Riak at the [Philly Database Throwdown](http://www.meetup.com/PhillyDB/events/55255962/). [**April 26**]
+* Christopher Meiklejohn represented Basho at the [Boston Hadoop User Group](http://www.meetup.com/bostonhadoop/events/59400332/). [**April 26**]
 * Russell Brown held the first [Riak Leeds Meetup](http://www.meetup.com/Leeds-Riak/events/56443672/). [**April 18**]
 
 ### Talks, Slide Decks, and Other Presos
