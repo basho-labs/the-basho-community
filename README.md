@@ -23,7 +23,7 @@ For the purposes of this project, a community release can include anything that'
 
 * A blog post about your team's Riak usage
 * A presentation at a local meetup and accompanying slide deck
-* Releasing your PHP ORM and open sourceing it 
+* Releasing your PHP ORM and open sourcing it 
 * Documentation you contributed for the Python client 
 * A screencast Basho made to show new Riak Search features
 * The 30 minutes you spent in the Mailing List to help a newcomer
