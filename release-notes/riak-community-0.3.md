@@ -33,4 +33,4 @@ Jump to:
 
 ### New Known Production Deployments 
 
-* [Eye.fi](www.eye.fi)
+* [Eye.fi](http://www.eye.fi)
