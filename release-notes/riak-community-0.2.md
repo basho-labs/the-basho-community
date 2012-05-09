@@ -51,6 +51,7 @@ Jump to:
 * Tom Santero represented Riak at the [Philly Database Throwdown](http://www.meetup.com/PhillyDB/events/55255962/). [**April 26**]
 * Christopher Meiklejohn represented Basho at the [Boston Hadoop User Group](http://www.meetup.com/bostonhadoop/events/59400332/). [**April 26**]
 * Russell Brown held the first [Riak Leeds Meetup](http://www.meetup.com/Leeds-Riak/events/56443672/). [**April 18**]
+* The [Atlanta Ruby Meetup](http://www.meetup.com/atlantaruby/events/53215152), thanks to the team at [Highgroove](http://highgroove.com/), was all about Riak. [**April 11**]
 
 ### Talks, Slide Decks, and Other Presos
 
@@ -58,7 +59,7 @@ Jump to:
 * Pavlo Baron [published a slide deck](http://www.slideshare.net/pavlobaron/from-hand-to-mouth-pavlobaron) from the Zurich NoSQL Roadshow that talks about how and why you might want to use Riak. [**April 26**]
 * The team a Presi [released a slide deck](http://prezi.com/qpc9flfkdvzz/riak-prezi/) that talks about how and why they are using Riak. [**April 24**]
 * John Leach [released his slides](http://johnleach.co.uk/downloads/slides/riak-consistent-hashing.pdf) from the consistent hashing talk at the inaugural Riak London Meetup. [**April 22**]
-* Will Farrington of High Groove [presented on Riak](http://speakerdeck.com/u/wfarr/p/learn-you-some-riak) at the [Atlanta Ruby Meetup](http://www.meetup.com/atlantaruby/events/53215152/) [**April 11**]
+* Will Farrington of High Groove [presented on Riak](http://speakerdeck.com/u/wfarr/p/learn-you-some-riak) at the Atlanta Ruby Meetup. [**April 11**]
 * [Ian Plosker](twitter.com/DstroyAllModels) presented on Riak at the RIT++ Conference in Moscow. ([Slides](http://www.slideshare.net/p	rofyclub_ru/introduction-to-riak-ian-plosker)). [**April 2**]
 
 
