@@ -21,6 +21,8 @@ Jump to:
 
 ### Meetups
 
+* Basho held the first official, free, all-day Riak Training at BashoWest in San Francisco. [**May 9**]
+
 ### Talks, Slide Decks, and Other Presos
 
 ### Code Releases 
@@ -30,3 +32,5 @@ Jump to:
 ### Other Awesome Things Riak Users Did
 
 ### New Known Production Deployments 
+
+* [Eye.fi](www.eye.fi)
