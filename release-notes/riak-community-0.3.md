@@ -15,6 +15,8 @@ Jump to:
 
 ### Blog Posts and Podcasts 
 
+* Three Pillar Global wrote [a blog post](http://www.threepillarglobal.com/node/326) about data modeling in Riak. [**May 9**]
+
 ### Documentation 
 
 ### Meetups
