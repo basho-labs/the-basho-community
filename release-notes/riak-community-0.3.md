@@ -15,9 +15,9 @@ Jump to:
 
 ### Blog Posts and Podcasts 
 
-* [Simon Buckle](https://twitter.com/#!/simonbuckle) published [the second article](http://www.ibm.com/developerworks/opensource/library/os-riak2/index.html) in a two-part series about Riak for IBM's developerWorks. [**May 15**]  
+* Simon Buckle published [the second article](http://www.ibm.com/developerworks/opensource/library/os-riak2/index.html) in a two-part series about Riak for IBM's developerWorks. [**May 15**]  
 * Three Pillar Global write [the third](http://www.threepillarglobal.com/node/333) and final blog post about data modeling in Riak. [**May 15**]
-* [Tim Doug](https://twitter.com/#!/timd0ug) from BUMP [wrote a blog post](http://devblog.bu.mp/from-mongodb-to-riak) about migrating from MongoDB to Riak. [**May 14**]
+* Tim Doug from BUMP [wrote a blog post](http://devblog.bu.mp/from-mongodb-to-riak) about migrating from MongoDB to Riak. [**May 14**]
 * Shanley Kane [wrote a blog post](http://basho.com/blog/technical/2012/05/14/Riak-CS-for-Startups/) announcing Basho's Riak CS for Startups program. [**May 14**]
 * Three Pillar Global wrote [the second](http://www.threepillarglobal.com/node/331) of three blog posts about data modeling in Riak. [**May 10**]
 * Three Pillar Global wrote [a blog post](http://www.threepillarglobal.com/node/326) about data modeling in Riak. [**May 9**]
