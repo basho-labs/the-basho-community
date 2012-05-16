@@ -33,6 +33,8 @@ Jump to:
 
 ### Code Releases
 
+* Michael Klishin released [Welle](http://clojureriak.info/), an expressive Clojure client for Riak. [**May 16**]
+
 ### Community Code Contributions
 
 * Matt Ranney and the team at Voxer [open-sourced their Node.js client for Riak, node_riak.](https://github.com/mranney/node_riak) [**May 13**]
