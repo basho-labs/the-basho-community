@@ -31,13 +31,13 @@ Jump to:
 
 ### Talks, Slide Decks, and Other Presos
 
-### Code Releases
+* Matt Heizenroder delivered a talk on [Riak and Eventual Consistency](http://skillsmatter.com/podcast/nosql/russell-brown-eventual-consistency/js-2090) in London. [**May 11**]
+
+### Code Releases 
 
 * Michael Klishin released [Welle](http://clojureriak.info/), an expressive Clojure client for Riak. [**May 16**]
-
-### Community Code Contributions
-
 * Matt Ranney and the team at Voxer [open-sourced their Node.js client for Riak, node_riak.](https://github.com/mranney/node_riak) [**May 13**]
+* Michael Bernstein took a first pass at a [Go API](https://gist.github.com/2669550) for Riak. [**May 13**]
 
 ### Other Awesome Things Riak Users Did
 

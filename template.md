@@ -26,8 +26,6 @@ Jump to:
 
 ### Code Releases 
 
-### Community Code Contributions
-
 ### Other Awesome Things Riak Users Did
 
 ### New Known Production Deployments 
