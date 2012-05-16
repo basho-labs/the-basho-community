@@ -25,6 +25,7 @@ Jump to:
 * The team at Three Pillar Global published [their first of three blog posts](http://www.threepillarglobal.com/node/323) about Riak's MapReduce.[**April 26**]  
 * Shanley Kane [wrote a blog post](http://basho.com/blog/technical/2012/04/27/Why-Your-Riak-Cluster-Should-Have-At-Least-Five-Nodes/) about why you should be using at least five nodes of Riak in production. [**April 26**]
 * Dietrich Featherston and Boundary [published another blog post](http://blog.boundary.com/2012/04/25/hungry-kobayashi-part-2/) about their distributed analytics database. [**April 25**]
+* Srdjan Pejic wrote a blog post on [Riak Search and its integration with MapReduce](http://batasrki.github.com/blog/2012/04/24/riak-search-as-a-means-of-querying/). [**April 24**]
 * Mark Phillips [wrote a blog post ](http://www.themarkphillips.com/2012/04/24/riak-adoption-we-have-some-work-to-do.html) about Riak adoption hurdles and what Basho and the Riak community need to do to eliminate them. [**April 24**]
 * Manuel Rubio wrote his [second blog post about Riak](http://bosqueviejo.net/2012/04/24/riak-revisando-y-practicando). [**April 24**]
 * John Leach [wrote a blog post](http://johnleach.co.uk/words/1063/riak-syslog) about how he and Brightbox use a library called "riak-syslog" with Riak Search. [**April 24**]
