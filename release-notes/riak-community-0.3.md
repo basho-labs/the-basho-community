@@ -31,7 +31,11 @@ Jump to:
 
 ### Talks, Slide Decks, and Other Presos
 
+* Boundary hacker Dietrich Featherston gave a talk ([slides](http://dl.dropbox.com/u/1133314/kobayashi/large-scale-olap-with-kobayashi.pdf) | [meetup info](http://www.meetup.com/Boundary-Tech-Talks/events/63946712/)) on one of their internal systems called Kobayashi and touches on how it makes use of Riak. [**May 17**]
 * Matt Heizenroder delivered a talk on [Riak and Eventual Consistency](http://skillsmatter.com/podcast/nosql/russell-brown-eventual-consistency/js-2090) in London. [**May 11**]
+* David Dawson and Marcus Kern gave a talk in London called [Real Life Riak at MIG](http://skillsmatter.com/podcast/nosql/mobile-interactive-group-riak) [**May 10**]
+* Ian Plosker gave a talked called [Introduction to Riak](http://skillsmatter.com/podcast/nosql/denormalised-riak) in London. [**May 10**]
+
 
 ### Code Releases 
 
