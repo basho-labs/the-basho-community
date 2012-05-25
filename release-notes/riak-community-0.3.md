@@ -15,6 +15,7 @@ Jump to:
 
 ### Blog Posts and Podcasts 
 
+* The team at Qbranch wrote [a great blog](http://blog.frli.se/2012/05/riak-at-qbranch.html) post about how and why they are using Riak in production. [**May 25**]
 * Simon Buckle published [the second article](http://www.ibm.com/developerworks/opensource/library/os-riak2/index.html) in a two-part series about Riak for IBM's developerWorks. [**May 15**]  
 * Three Pillar Global write [the third](http://www.threepillarglobal.com/node/333) and final blog post about data modeling in Riak. [**May 15**]
 * Tim Doug from BUMP [wrote a blog post](http://devblog.bu.mp/from-mongodb-to-riak) about migrating from MongoDB to Riak. [**May 14**]
@@ -26,12 +27,14 @@ Jump to:
 
 ### Meetups
 
+* Kiip presented on Riak at the [San Francisco Riak Meetup](http://www.meetup.com/San-Francisco-Riak-Meetup/events/64400612/) and received amazing reviews. [**May 22**]
 * Tom Santero gave an introduction to Riak presentation at a [meetup](http://www.meetup.com/ny-enterprise-tech/events/60901432/) in New York. [**May 16**]
 * Ian Plosker delivered [a talk](http://skillsmatter.com/podcast/nosql/denormalised-riak) on Riak at the [DeNormalized London Meetup.](http://www.meetup.com/DeNormalised-London/events/60652102/) [**May 10**]
 * Basho held the first official, free, all-day Riak Training at BashoWest in San Francisco. [**May 9**]
 
 ### Talks, Slide Decks, and Other Presos
 
+* The team at Kiip [gave a talk](http://basho.com/blog/technical/2012/05/25/Scaling-Riak-At-Kiip/) on their production usage of Riak. [**May 22**]
 * Ian Plosker represented Riak on a [panel discussion](http://gotocon.com/cph-2012/presentation/NOSQL%20Knockout) at GOTO Copenhagen. [**May 22**]
 * Tom Santero gave a talk ([slides](http://www.slideshare.net/tsantero/riak-in-the-cloud)) on building distributed cloud services using riak_core at GOTO Copenhagen. [**May 21**]
 * Boundary hacker Dietrich Featherston gave a talk ([slides](http://dl.dropbox.com/u/1133314/kobayashi/large-scale-olap-with-kobayashi.pdf) | [meetup info](http://www.meetup.com/Boundary-Tech-Talks/events/63946712/)) on one of their internal systems called Kobayashi and touches on how it makes use of Riak. [**May 17**]
@@ -55,3 +58,5 @@ Jump to:
 * [5apps](https://5apps.com/)
 * [Eye.fi](http://www.eye.fi)
 * [Kabam](https://www.kabam.com/)
+* [Qbranch](http://www.qbranch.se/) 
+* [Tablica.pl](http://tablica.pl/)
