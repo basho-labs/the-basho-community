@@ -55,6 +55,8 @@ Jump to:
 
 ### Other Awesome Things Riak Users Did
 
+* Basho Developer Jared Morrow [finished tied for first](https://twitter.com/_jared/status/206542373524738048) in the Fort Strongman and [won a medal](https://twitter.com/_jared/status/206968017744183296/photo/1). [**May 28**]
+
 ### New Known Production Deployments 
 
 * [5apps](https://5apps.com/)
