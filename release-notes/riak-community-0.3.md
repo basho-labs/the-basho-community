@@ -15,6 +15,7 @@ Jump to:
 
 ### Blog Posts and Podcasts 
 
+* Nam Nguyen wrote a blog post called [One week with Riak](http://techualization.blogspot.com/2012/05/one-week-with-riak.html). [**May 28**] 	
 * The team at Qbranch wrote [a great blog](http://blog.frli.se/2012/05/riak-at-qbranch.html) post about how and why they are using Riak in production. [**May 25**]
 * Simon Buckle published [the second article](http://www.ibm.com/developerworks/opensource/library/os-riak2/index.html) in a two-part series about Riak for IBM's developerWorks. [**May 15**]  
 * Three Pillar Global write [the third](http://www.threepillarglobal.com/node/333) and final blog post about data modeling in Riak. [**May 15**]
