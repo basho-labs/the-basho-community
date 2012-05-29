@@ -47,6 +47,7 @@ Jump to:
 
 ### Code Releases 
 
+* Riak support [was started](https://github.com/negativecode/vines/pull/15) for the Vines XMPP chat server. [**May 24**]
 * ClojureWerkz released [Welle version 1.0.0](https://github.com/michaelklishin/welle/blob/master/ChangeLog.md) and [version 1.0.1](https://github.com/michaelklishin/welle/blob/1.0.x-stable/ChangeLog.md). [**May 22**]
 * hexreel released [Bottle-Riak](https://github.com/hexreel/bottle-riak), a plugin that integrates Riak with the Bottle python web framework. [**May 22**]
 * Michael Klishin released [Welle](http://clojureriak.info/), an expressive Clojure client for Riak. [**May 16**]
