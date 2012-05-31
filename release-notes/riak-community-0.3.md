@@ -52,6 +52,7 @@ Jump to:
 * Riak support [was started](https://github.com/negativecode/vines/pull/15) for the Vines XMPP chat server. [**May 24**]
 * ClojureWerkz released [Welle version 1.0.0](https://github.com/michaelklishin/welle/blob/master/ChangeLog.md) and [version 1.0.1](https://github.com/michaelklishin/welle/blob/1.0.x-stable/ChangeLog.md). [**May 22**]
 * hexreel released [Bottle-Riak](https://github.com/hexreel/bottle-riak), a plugin that integrates Riak with the Bottle python web framework. [**May 22**]
+* Andrea Luzzardi released [riak-statsd-python](https://github.com/aluzzardi/riak-statsd-python), a transport proxy for instrumenting Riak python clients. [**May 19**]
 * Michael Klishin released [Welle](http://clojureriak.info/), an expressive Clojure client for Riak. [**May 16**]
 * Matt Ranney and the team at Voxer [open-sourced their Node.js client for Riak, node_riak.](https://github.com/mranney/node_riak) [**May 13**]
 * Michael Bernstein took a first pass at a [Go API](https://gist.github.com/2669550) for Riak. [**May 13**]
