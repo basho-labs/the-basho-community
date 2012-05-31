@@ -28,6 +28,7 @@ Jump to:
 
 ### Meetups
 
+* Basho held the [Inaugural Riak Meetup](http://www.meetup.com/riak-london/events/62061262/) in London. [**May 30**]
 * Kiip presented on Riak at the [San Francisco Riak Meetup](http://www.meetup.com/San-Francisco-Riak-Meetup/events/64400612/) and received amazing reviews. [**May 22**]
 * Tom Santero gave an introduction to Riak presentation at a [meetup](http://www.meetup.com/ny-enterprise-tech/events/60901432/) in New York. [**May 16**]
 * Ian Plosker delivered [a talk](http://skillsmatter.com/podcast/nosql/denormalised-riak) on Riak at the [DeNormalized London Meetup.](http://www.meetup.com/DeNormalised-London/events/60652102/) [**May 10**]
