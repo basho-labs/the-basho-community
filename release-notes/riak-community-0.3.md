@@ -15,6 +15,7 @@ Jump to:
 
 ### Blog Posts and Podcasts 
 
+* George Reese wrote an article for O'Reilly called [Object/NoSQL Mapping for Riak with Dasein Persist](http://broadcast.oreilly.com/2012/05/object-nosql-mapping-for-riak-with-dasein-persist.html). [**May 28**]
 * Nam Nguyen wrote a blog post called [One week with Riak](http://techualization.blogspot.com/2012/05/one-week-with-riak.html). [**May 28**] 	
 * The team at Qbranch wrote [a great blog](http://blog.frli.se/2012/05/riak-at-qbranch.html) post about how and why they are using Riak in production. [**May 25**]
 * Srdjan Pejic wrote a blog post regarding the integration of [2i with MapReduce in Ruby](http://batasrki.github.com/blog/2012/05/23/riak-2i-as-a-means-of-querying/). [**May 23**]
@@ -60,6 +61,8 @@ Jump to:
 
 ### Other Awesome Things Riak Users Did
 
+* The team at Clipboard announced that they [were officially launching their service](http://blog.clipboard.com/2012/05/31/0-Going-Public) to the public. [**May 31**]
+* Mathias Meyer [shipped a huge update](www.paperplanes.de/2012/5/30/riak-handbook-11-is-out.html) to the Riak Handbook. [**May 30**]
 * Basho Developer Jared Morrow [finished tied for first](https://twitter.com/_jared/status/206542373524738048) in the Fort Strongman and [won a medal](https://twitter.com/_jared/status/206968017744183296/photo/1). [**May 28**]
 
 ### New Known Production Deployments 
