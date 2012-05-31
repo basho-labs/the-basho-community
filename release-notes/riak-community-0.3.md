@@ -17,6 +17,7 @@ Jump to:
 
 * Nam Nguyen wrote a blog post called [One week with Riak](http://techualization.blogspot.com/2012/05/one-week-with-riak.html). [**May 28**] 	
 * The team at Qbranch wrote [a great blog](http://blog.frli.se/2012/05/riak-at-qbranch.html) post about how and why they are using Riak in production. [**May 25**]
+* Srdjan Pejic wrote a blog post regarding the integration of [2i with MapReduce in Ruby](http://batasrki.github.com/blog/2012/05/23/riak-2i-as-a-means-of-querying/). [**May 23**]
 * Simon Buckle published [the second article](http://www.ibm.com/developerworks/opensource/library/os-riak2/index.html) in a two-part series about Riak for IBM's developerWorks. [**May 15**]  
 * Three Pillar Global write [the third](http://www.threepillarglobal.com/node/333) and final blog post about data modeling in Riak. [**May 15**]
 * Tim Doug from BUMP [wrote a blog post](http://devblog.bu.mp/from-mongodb-to-riak) about migrating from MongoDB to Riak. [**May 14**]
