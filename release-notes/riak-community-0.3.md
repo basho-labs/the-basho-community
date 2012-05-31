@@ -45,7 +45,7 @@ Jump to:
 * Ian Plosker represented Riak on a [panel discussion](http://gotocon.com/cph-2012/presentation/NOSQL%20Knockout) at GOTO Copenhagen. [**May 22**]
 * Tom Santero gave a talk ([slides](http://www.slideshare.net/tsantero/riak-in-the-cloud)) on building distributed cloud services using riak_core at GOTO Copenhagen. [**May 21**]
 * Boundary hacker Dietrich Featherston gave a talk ([slides](http://dl.dropbox.com/u/1133314/kobayashi/large-scale-olap-with-kobayashi.pdf) | [video](https://vimeo.com/42902962) | [meetup info](http://www.meetup.com/Boundary-Tech-Talks/events/63946712/)) on one of their internal systems called Kobayashi and touches on how it makes use of Riak. [**May 17**]
-* Andrew Thompson gave a [guest lecture](http://hijacked.us/~andrew/ChalmersTalk.pdf) ok Riak and parallel functional programming to the [Parallel Functional Programming](http://www.cse.chalmers.se/edu/course/pfp/index.html) class at Chalmers University, Sweden
+* Andrew Thompson gave a [guest lecture](http://hijacked.us/~andrew/ChalmersTalk.pdf) ok Riak and parallel functional programming to the [Parallel Functional Programming](http://www.cse.chalmers.se/edu/course/pfp/index.html) class at Chalmers University, Sweden. [**May 14**]
 * Matt Heizenroder delivered a talk on [Riak and Eventual Consistency](http://skillsmatter.com/podcast/nosql/russell-brown-eventual-consistency/js-2090) in London. [**May 11**]
 * David Dawson and Marcus Kern gave a talk in London called [Real Life Riak at MIG](http://skillsmatter.com/podcast/nosql/mobile-interactive-group-riak) [**May 10**]
 * Ian Plosker gave a talk called [Introduction to Riak](http://skillsmatter.com/podcast/nosql/denormalised-riak) in London. [**May 10**]
