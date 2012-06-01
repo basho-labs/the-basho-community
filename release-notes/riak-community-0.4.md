@@ -28,3 +28,5 @@ Jump to:
 ### Other Awesome Things Riak Users Did
 
 ### New Known Production Deployments 
+
+* [kivra.com](http://kivra.com)
