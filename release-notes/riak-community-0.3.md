@@ -41,6 +41,7 @@ Jump to:
 
 * Mathias Meyer gave a talk called [Designing for Concurrency with Riak](https://speakerdeck.com/u/roidrage/p/designing-for-concurrency-with-riak) at the NoSQL Matters Conference in Cologne, Germany. [**May 29**]
 * Thiago Avelino [gave a talk](http://www.slideshare.net/avelinoo/nosql-for-search-riak) on Riak Search (in Portugese!) [**May 29**]
+* Justin Sheehy discussed concurrency at scale at [GOTO Night in Chicago](http://gotonightchicago.eventbrite.com/). [**May 29**]
 * Andy Gross discussed [Riak Use Cases](http://gotocon.com/amsterdam-2012/presentation/Riak%20Use%20Cases:%20Dissecting%20the%20Solutions%20to%20Hard%20Problems) at GOTO Amsterdam. [**May 24**]
 * Andy Gross gave a talk at Open Source Business Conference. [**May 22**]
 * The team at Kiip [gave a talk](http://basho.com/blog/technical/2012/05/25/Scaling-Riak-At-Kiip/) on their production usage of Riak. [**May 22**]
