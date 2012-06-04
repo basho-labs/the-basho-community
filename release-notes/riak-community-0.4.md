@@ -25,6 +25,8 @@ Jump to:
 
 ### Code Releases 
 
+* Istvan Soos released [riak-dart](http://code.google.com/p/riak-dart/), an HTTP-based Riak client written in Dart.
+
 ### Other Awesome Things Riak Users Did
 
 ### New Known Production Deployments 
