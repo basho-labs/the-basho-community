@@ -68,7 +68,7 @@ Jump to:
 
 * The team at Clipboard announced that they [were officially launching their service](http://blog.clipboard.com/2012/05/31/0-Going-Public) to the public. [**May 31**]
 * Kresten Krab Thorup [made a fascinating visualization of Erlang](http://www.youtube.com/watch?v=lHoWfeNuAN8) using Ubigraph. Riak makes an appearance around 5:30. [**May 30**] 
-* Mathias Meyer [shipped a huge update](www.paperplanes.de/2012/5/30/riak-handbook-11-is-out.html) to the Riak Handbook. [**May 30**]
+* Mathias Meyer [shipped a huge update](http://www.paperplanes.de/2012/5/30/riak-handbook-11-is-out.html) to the Riak Handbook. [**May 30**]
 * Basho Developer Jared Morrow [finished tied for first](https://twitter.com/_jared/status/206542373524738048) in the Fort Collins Strongman and [won a medal](https://twitter.com/_jared/status/206968017744183296/photo/1). [**May 28**]
 
 ### New Known Production Deployments 
