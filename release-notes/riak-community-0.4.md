@@ -21,6 +21,10 @@ Jump to:
 
 ### Talks, Slide Decks, and Other Presos
 
+* Sean Cribbs gave a talk called [Eventually-Consistent Data Structures](http://www.slideshare.net/seancribbs/eventuallyconsistent-data-structures) at Berlin Buzzwords. [**June 5**] 
+
+* Ian Plosker delivered a talk entitled [Germany's Next Top Data Model](about:blank) at Berlin Buzzwords. [**June 4**]
+
 * Sean Cribbs gave a talk entitled [A Case of Accidental Concurrency](http://www.slideshare.net/seancribbs/a-case-of-accidental-concurrency) at EuRuKo 2012 in Amsterdam. [**June 1**]
 
 ### Code Releases 
