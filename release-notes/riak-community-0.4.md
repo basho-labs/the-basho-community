@@ -35,5 +35,6 @@ Jump to:
 
 ### New Known Production Deployments 
 
-* [kivra.com](http://kivra.com)
-* [mashape.com](http://www.mashape.com/)
+* [Kivra](http://kivra.com)
+* [Mashape](http://www.mashape.com/)
+* [Coradine](http://coradine.com)
