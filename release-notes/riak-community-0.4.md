@@ -29,6 +29,8 @@ Jump to:
 
 ### Code Releases 
 
+* Timo Gatsonides released [goriakpbc](https://github.com/tpjg/goriakpbc), a riak client written in Go using the protocol buffers interface. [**June 18**]
+* The ClojureWerkz team released [version 1.1.0](https://github.com/michaelklishin/welle/blob/master/ChangeLog.md) of Welle, and expressive Clojure cient for Riak. [**June 16**] 
 * Istvan Soos released [riak-dart](http://code.google.com/p/riak-dart/), an HTTP-based Riak client written in Dart.
 
 ### Other Awesome Things Riak Users Did
