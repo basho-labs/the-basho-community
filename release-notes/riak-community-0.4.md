@@ -15,7 +15,9 @@ Jump to:
 
 ### Blog Posts and Podcasts 
 
-* The team at Near Infinity wrote a [great introduction to Riak](http://www.nearinfinity.com/blogs/andrew_crute/2012/06/18/a-brief-introduction-to-riak.html [**June 18**]
+* The team at Near Infinity wrote a [great introduction to Riak](http://www.nearinfinity.com/blogs/andrew_crute/2012/06/18/a-brief-introduction-to-riak.html) [**June 18**]
+* Bryan Fink [wrote a blog post](http://basho.com/blog/technical/2012/06/18/When-API-Compatible-Isnt/) about some of the MapReduce fixes coming in Riak 1.2. [**June 18**]
+* Jared Morrow [annouced that Riak will be supported on FreeBSD](http://basho.com/blog/technical/2012/06/11/Supporting-Riak-on-BSD/) starting with the 1.2 release. [**June 11**]
 
 ### Documentation 
 
