@@ -15,6 +15,8 @@ Jump to:
 
 ### Blog Posts and Podcasts 
 
+* The team at Near Infinity wrote a [great introduction to Riak](http://www.nearinfinity.com/blogs/andrew_crute/2012/06/18/a-brief-introduction-to-riak.html [**June 18**]
+
 ### Documentation 
 
 ### Meetups
