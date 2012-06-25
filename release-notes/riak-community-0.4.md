@@ -25,10 +25,10 @@ Jump to:
 
 ### Talks, Slide Decks, and Other Presos
 
+* Justin Sheehy delivered a talk entitled [Embracing Concurrency at Scale](http://qconnewyork.com/dl/qcon-newyork-2012/slides/JustinSheehy-EmbracingConcurrency.pdf) at QConNYC. [**June 19**]
+* Steven Vinoski gave a talk on [Erlang's Open Telecom Platform](http://qconnewyork.com/dl/qcon-newyork-2012/slides/steve-vinoski-qcon-nyc-2012.pdf) at QConNYC. [**June 18**]
 * Sean Cribbs gave a talk called [Eventually-Consistent Data Structures](http://www.slideshare.net/seancribbs/eventuallyconsistent-data-structures) at Berlin Buzzwords. [**June 5**] 
-
 * Ian Plosker delivered a talk entitled [Germany's Next Top Data Model](about:blank) at Berlin Buzzwords. [**June 4**]
-
 * Sean Cribbs gave a talk entitled [A Case of Accidental Concurrency](http://www.slideshare.net/seancribbs/a-case-of-accidental-concurrency) at EuRuKo 2012 in Amsterdam. [**June 1**]
 
 ### Code Releases 
