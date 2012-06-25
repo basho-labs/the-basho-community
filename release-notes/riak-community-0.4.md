@@ -23,6 +23,8 @@ Jump to:
 
 ### Meetups
 
+* Mickael Remond organized and hosted the [inaugural Paris Riak meetup](http://www.meetup.com/Paris-Riak-Meetup/events/64079822/). [**June 7**]
+
 ### Talks, Slide Decks, and Other Presos
 
 * Justin Sheehy delivered a talk entitled [Embracing Concurrency at Scale](http://qconnewyork.com/dl/qcon-newyork-2012/slides/JustinSheehy-EmbracingConcurrency.pdf) at QConNYC. [**June 19**]
