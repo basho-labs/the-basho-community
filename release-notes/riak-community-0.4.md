@@ -15,6 +15,7 @@ Jump to:
 
 ### Blog Posts and Podcasts 
 
+* Ryan Zezeski [blogged about](http://basho.com/blog/technical/2012/06/25/Riak-Admin-Transfers-in-1-2-Release/) the upcoming improvements to riak-admin transfer in the 1.2 release. [**June 25**] 
 * The team at Near Infinity wrote a [great introduction to Riak](http://www.nearinfinity.com/blogs/andrew_crute/2012/06/18/a-brief-introduction-to-riak.html) [**June 18**]
 * Bryan Fink [wrote a blog post](http://basho.com/blog/technical/2012/06/18/When-API-Compatible-Isnt/) about some of the MapReduce fixes coming in Riak 1.2. [**June 18**]
 * Jared Morrow [annouced that Riak will be supported on FreeBSD](http://basho.com/blog/technical/2012/06/11/Supporting-Riak-on-BSD/) starting with the 1.2 release. [**June 11**]
@@ -42,6 +43,7 @@ Jump to:
 
 ### Code Releases 
 
+* Bryce Kerley released the beginnings of a libary called [hanover](https://github.com/bkerley/hanover), "CRDTs for Ruby and eventually Riak". [**June 29**] 
 * John Vincent added [riak support](https://github.com/logstash/logstash/commit/7f6f004b4b9f31766eb6e2a83659053b29ff14d2) to the logstash log management tool. [**June 26**]
 * Zachary Voase announced [rkQuery](https://github.com/zacharyvoase/rkquery), a jQuery-inspired library for Riak Search, written in Python. [**June 21**]
 * Timo Gatsonides released [goriakpbc](https://github.com/tpjg/goriakpbc), a riak client written in Go using the protocol buffers interface. [**June 18**]
