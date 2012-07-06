@@ -46,6 +46,7 @@ Jump to:
 ### Code Releases 
 
 * Bryce Kerley released the beginnings of a libary called [hanover](https://github.com/bkerley/hanover), "CRDTs for Ruby and eventually Riak". [**June 29**] 
+* boo started work on a [SQLite backend for Riak](https://github.com/booo/riak_kv/tree/sqlite. [**June 28**]
 * John Vincent added [riak support](https://github.com/logstash/logstash/commit/7f6f004b4b9f31766eb6e2a83659053b29ff14d2) to the logstash log management tool. [**June 26**]
 * Zachary Voase announced [rkQuery](https://github.com/zacharyvoase/rkquery), a jQuery-inspired library for Riak Search, written in Python. [**June 21**]
 * Timo Gatsonides released [goriakpbc](https://github.com/tpjg/goriakpbc), a riak client written in Go using the protocol buffers interface. [**June 18**]
