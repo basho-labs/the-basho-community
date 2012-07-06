@@ -33,6 +33,7 @@ Jump to:
 
 ### Talks, Slide Decks, and Other Presos
 
+* Chris Meiklejohn [gave a talk](https://speakerdeck.com/u/cmeiklejohn/p/emberjs-state-manager) at the Boston EmberJS Meetup all about how Riak Control is built. [**June 28**]
 * We published the [Voxer in Production video](http://basho.com/blog/technical/2012/06/27/Riak-at-Voxer/) from their meetup talk. [**June 27**]  
 * Justin Sheehy delivered a talk entitled [Embracing Concurrency at Scale](http://qconnewyork.com/dl/qcon-newyork-2012/slides/JustinSheehy-EmbracingConcurrency.pdf) at QConNYC. [**June 19**]
 * Steven Vinoski gave a talk on [Erlang's Open Telecom Platform](http://qconnewyork.com/dl/qcon-newyork-2012/slides/steve-vinoski-qcon-nyc-2012.pdf) at QConNYC. [**June 18**]
