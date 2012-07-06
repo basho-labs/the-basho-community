@@ -59,6 +59,8 @@ Jump to:
 
 ### Other Awesome Things Riak Users Did
 
+* Mathias Meyer [released 6-months of sales figures](http://www.paperplanes.de/2012/7/5/six-ish-months-of-ebook-sales-riak-handbook.html) for his eBook, The Riak Handbook. [**July 5**]
+
 ### New Known Production Deployments 
 
 * [Kivra](http://kivra.com)
