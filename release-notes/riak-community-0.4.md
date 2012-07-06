@@ -15,6 +15,7 @@ Jump to:
 
 ### Blog Posts and Podcasts 
 
+* Mathias Meyer [wrote a post](http://www.paperplanes.de//2012/6/27/playing-with-riak-and-crdts.html) about using CRDTs for counters in Riak. [**June 27**]
 * Ryan Zezeski [blogged about](http://basho.com/blog/technical/2012/06/25/Riak-Admin-Transfers-in-1-2-Release/) the upcoming improvements to riak-admin transfer in the 1.2 release. [**June 25**] 
 * The team at Near Infinity wrote a [great introduction to Riak](http://www.nearinfinity.com/blogs/andrew_crute/2012/06/18/a-brief-introduction-to-riak.html) [**June 18**]
 * Bryan Fink [wrote a blog post](http://basho.com/blog/technical/2012/06/18/When-API-Compatible-Isnt/) about some of the MapReduce fixes coming in Riak 1.2. [**June 18**]
