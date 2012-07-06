@@ -23,12 +23,15 @@ Jump to:
 ### Documentation 
 
 * Ward Bekker released [installation instructions](https://github.com/wardbekker/riak_mongo/wiki/OSX-Installation-Instructions) for riak_mongo. [**June 13**]
+
 ### Meetups
 
+* Voxer presented on their production Riak usage at the [June San Francisco Meetup](http://www.meetup.com/San-Francisco-Riak-Meetup/events/68028502/). [**June 20**]
 * Mickael Remond organized and hosted the [inaugural Paris Riak meetup](http://www.meetup.com/Paris-Riak-Meetup/events/64079822/). [**June 7**]
 
 ### Talks, Slide Decks, and Other Presos
 
+* We published the [Voxer in Production video](http://basho.com/blog/technical/2012/06/27/Riak-at-Voxer/) from their meetup talk. [**June 27**]  
 * Justin Sheehy delivered a talk entitled [Embracing Concurrency at Scale](http://qconnewyork.com/dl/qcon-newyork-2012/slides/JustinSheehy-EmbracingConcurrency.pdf) at QConNYC. [**June 19**]
 * Steven Vinoski gave a talk on [Erlang's Open Telecom Platform](http://qconnewyork.com/dl/qcon-newyork-2012/slides/steve-vinoski-qcon-nyc-2012.pdf) at QConNYC. [**June 18**]
 * Russell Brown [gave a lightning talk](http://cloudcampnorth.eventbrite.com/) on Riak at Cloud Camp North. [**June 14**]
