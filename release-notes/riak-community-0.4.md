@@ -27,6 +27,7 @@ Jump to:
 
 ### Meetups
 
+* Artur Bergman of Fastly and Dave Dawson of MIG discussed performance in distributed systems (like Riak) at [the second London Riak Meetup](http://www.meetup.com/riak-london/events/69174012/). [**July 5**]
 * Voxer presented on their production Riak usage at the [June San Francisco Meetup](http://www.meetup.com/San-Francisco-Riak-Meetup/events/68028502/). [**June 20**]
 * Mickael Remond organized and hosted the [inaugural Paris Riak meetup](http://www.meetup.com/Paris-Riak-Meetup/events/64079822/). [**June 7**]
 
