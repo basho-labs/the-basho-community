@@ -44,6 +44,7 @@ Jump to:
 * Timo Gatsonides released [goriakpbc](https://github.com/tpjg/goriakpbc), a riak client written in Go using the protocol buffers interface. [**June 18**]
 * The ClojureWerkz team released [version 1.1.0](https://github.com/michaelklishin/welle/blob/master/ChangeLog.md) of Welle, and expressive Clojure cient for Riak. [**June 16**]
 * Emily Rose released [riakstar](https://github.com/nexxy/riakstar), a bad-ass Riak client for Node.js. [**June 14**] 
+* The team at Bump released [diesel](http://diesel.io), a networking framework written in Python. [**June 10**]
 * Florian and Felix Gilcher of Asquera GmbH released [vagrant-riak-cluster](https://github.com/Asquera/vagrant-riak-cluster), a package that spins up a small cluster of riak nodes using Vagrant. [**June 4**]
 * Michael Bernstein open-sourced [shoebox](https://github.com/mrb/shoebox), an example programing using riakpbc. [**June 3**]
 * Michael Bernstein updated [riakpbc](https://github.com/mrb/riakpbc), a Riak Protocol Buffers Client implemented in Go. [**June 3**]
@@ -54,7 +55,6 @@ Jump to:
 
 ### New Known Production Deployments 
 
-* [diesel](http://diesel.io)
 * [Kivra](http://kivra.com)
 * [Mashape](http://www.mashape.com/)
 * [Coradine](http://coradine.com)
