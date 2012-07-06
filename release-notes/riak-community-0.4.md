@@ -50,6 +50,7 @@ Jump to:
 * John Vincent added [riak support](https://github.com/logstash/logstash/commit/7f6f004b4b9f31766eb6e2a83659053b29ff14d2) to the logstash log management tool. [**June 26**]
 * Zachary Voase announced [rkQuery](https://github.com/zacharyvoase/rkquery), a jQuery-inspired library for Riak Search, written in Python. [**June 21**]
 * Timo Gatsonides released [goriakpbc](https://github.com/tpjg/goriakpbc), a riak client written in Go using the protocol buffers interface. [**June 18**]
+* Andrew Nelson got started on a new Perl library for Riak called [Data-Riak](http://search.cpan.org/~anelson/Data-Riak-0.1/). [**June 17**] 
 * The ClojureWerkz team released [version 1.1.0](https://github.com/michaelklishin/welle/blob/master/ChangeLog.md) of Welle, and expressive Clojure cient for Riak. [**June 16**]
 * Emily Rose released [riakstar](https://github.com/nexxy/riakstar), a bad-ass Riak client for Node.js. [**June 14**] 
 * The team at Bump released [diesel](http://diesel.io), a networking framework written in Python. [**June 10**]
