@@ -15,6 +15,8 @@ Jump to:
 
 ### Blog Posts and Podcasts 
 
+* Ray Jenkins wrote [a blog post](http://blog.boundary.com/2012/07/09/reusable-patterns-for-riak-in-scala/) discussing riak-scala-dao, a simple, reusable persistence layer for Riak, written in Scala. [**July 9**]
+
 ### Documentation 
 
 ### Meetups
@@ -24,6 +26,8 @@ Jump to:
 ### Talks, Slide Decks, and Other Presos
 
 ### Code Releases 
+
+* Ray Jenkins released [riak-scala-dao](https://github.com/rjenkins/riak-scala-dao), a reusable persistance layer for Riak written in Scala. [**July 9**]
 
 * Shuhao Wu completely refactored and released a new version of [riakkit](https://github.com/ultimatebuster/riakkit), a Python Riak ORM. [**July 4**]
 
