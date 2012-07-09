@@ -25,6 +25,8 @@ Jump to:
 
 ### Code Releases 
 
+* Shuhao Wu released a new version of [riakkit](https://github.com/ultimatebuster/riakkit) (Python Riak ORM), [version 0.6.0a](https://github.com/ultimatebuster/riakkit/blob/master/CHANGELOG), a completely rewrite of the previous version. [**July 4**]
+
 ### Other Awesome Things Riak Users Did
 
 ### New Known Production Deployments 
