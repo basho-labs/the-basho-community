@@ -35,4 +35,7 @@ Jump to:
 
 ### Other Awesome Things Riak Users Did
 
+* Boundary [announced](http://boundary.com/about/press/boundary-nets-15m-to-accelerate-the-future-of-it-monitoring-and-management/0 a new round of funding. [**July 10**]
+* GitHub [announced](http://peter.a16z.com/2012/07/09/software-eats-software-development/) a new round of funding. [**July 09**]
+
 ### New Known Production Deployments 
