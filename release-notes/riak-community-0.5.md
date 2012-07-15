@@ -15,6 +15,8 @@ Jump to:
 
 ### Blog Posts and Podcasts 
 
+* Scott Leberknight [wrote a brief introduction to Riak](http://cloud.dzone.com/articles/brief-introduction-riak) and the Ruby client. [**July 12**]
+
 * The team at GoGrid [wrote a blog post](http://blog.gogrid.com/2012/07/09/create-a-basho-riak-cluster-on-gogrid/) explaining how to setup a Riak cluster on GoGrid. [**July 9**]
 
 * Ray Jenkins wrote [a blog post](http://blog.boundary.com/2012/07/09/reusable-patterns-for-riak-in-scala/) discussing riak-scala-dao, a simple, reusable persistence layer for Riak, written in Scala. [**July 9**]
