@@ -48,6 +48,7 @@ Jump to:
 * Artur Bergman of Fastly and Dave Dawson of MIG discussed performance in distributed systems at the [second London Riak Meetup](http://www.meetup.com/riak-london/events/69174012/). [**July 5**]
 * Ben Mills discussed how Braintree uses Riak in production at Braintree at the [first Chicago Riak Meetup](http://www.meetup.com/Chicago-Riak-Meetup/events/70017472/). [**July 11**] 
 * Tom Santero gave an overview of Riak, and Sean Cribbs delivered a Preview of Riak 1.2 at the [inaugural Philadelphia Riak Meetup](http://www.meetup.com/Philly-Riak-Meetup/events/67994362/). [**July 19**]
+
 ### Talks, Slide Decks, and Other Presos
 
 * InfoQ released a [video](http://www.infoq.com/presentations/Knockbox-an-Eventual-Consistency-Toolkit) of Reid Draper's Knockbox talk from Clojure/West. [**July 10**]
