@@ -37,7 +37,7 @@ Jump to:
 
 * We added a [Riak and Couchbase comparison](http://wiki.basho.com/Riak-Compared-to-Couchbase.html) to the Riak Wiki. [**July 10**]
 * We added a [Riak and HBase comparison](http://wiki.basho.com/Riak-Compared-to-HBase.html). [**July 11**]
-* We added a [Riak and CouchDB comparison](http://wiki.basho.com/Riak-Compared-to-CouchDB.html).
+* We added a [Riak and CouchDB comparison](http://wiki.basho.com/Riak-Compared-to-CouchDB.html). [**July 12**]
 * The [Client Libraries page](http://wiki.basho.com/Client-Libraries.html) got a nice face lift courtesy of Sean Cribbs. [**July 15**]
 * A [Searching and Aggregating Data](http://wiki.basho.com/Searching-and-Aggregating-Data.html) section was added to the wiki. (**July 20**) 
 
