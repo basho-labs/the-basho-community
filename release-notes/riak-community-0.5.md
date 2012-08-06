@@ -52,13 +52,13 @@ Jump to:
 
 ### Code Releases 
 
-* Bryce Kerley [released some Ruby CRDT code](https://github.com/bkerley/hanover) that is aimed at Riak usage. [**July 1**]
 * Shuhao Wu completely refactored and released a new version of [riakkit](https://github.com/ultimatebuster/riakkit), a Python Riak ORM. [**July 4**]
 * The team at Trifork released the [beginnings of a C Client](https://github.com/trifork/riack) for Riak. [**July 5**]
 * Ray Jenkins released [riak-scala-dao](https://github.com/rjenkins/riak-scala-dao), a reusable persistence layer for Riak written in Scala. [**July 9**]
 * We [started work](https://bugs.launchpad.net/charms/+bug/1022591) on a Riak Charm for Juju. [**July 9**]
 * mkb and the team at EngineYard released some code called [riak-shim](https://github.com/mkb/riak-shim) that reads config/database.yml and generates sensible bucket names. [**July 11**]
 * Tom Arnfeld released the beginnings of a Riak ORM for the Fuel PHP Framework. [**July 16**]
+* Andrew Nelson's Data-Riak Perl client for Riak [eclipsed version 1.0](http://search.cpan.org/~anelson/Data-Riak-1.1/). [**July 26**]
 
 ### Other Awesome Things The Community Did
 
