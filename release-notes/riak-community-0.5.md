@@ -1,6 +1,6 @@
 # Release Notes - The Riak Community v0.5
 
-The following release notes chronicle the key events that happened in the Riak Community from approximately July 1 thru July 31. If you have something contribute, [submit a pull request](https://github.com/basho/the-riak-community/pulls). (We want everything the community has done, so don't hesitate to add something for a past set of release notes.)
+The following release notes chronicle the key events that happened in the Riak Community from approximately July 1 thru July 31. If you have something contribute, please [submit a pull request](https://github.com/basho/the-riak-community/pulls). (We want everything the community has done, so don't hesitate to add something for a past set of release notes.)
 
 Jump to:
 
@@ -35,7 +35,9 @@ Jump to:
 
 ### Documentation 
 
-* We added a [Riak and Couchbase comparison](http://wiki.basho.com/Riak-Compared-to-Couchbase.html) to the Riak Wiki. [**July 10**]
+* We added three comparison pages to the wiki:
+  * [Riak and Couchbase comparison](http://wiki.basho.com/Riak-Compared-to-Couchbase.html)
+* a [Riak and Couchbase comparison](http://wiki.basho.com/Riak-Compared-to-Couchbase.html) to the Riak Wiki. [**July 10**]
 * We added a [Riak and HBase comparison](http://wiki.basho.com/Riak-Compared-to-HBase.html). [**July 11**]
 * We added a [Riak and CouchDB comparison](http://wiki.basho.com/Riak-Compared-to-CouchDB.html). [**July 12**]
 * The [Client Libraries page](http://wiki.basho.com/Client-Libraries.html) got a nice face lift courtesy of Sean Cribbs. [**July 15**]
