@@ -11,7 +11,7 @@ Jump to:
 * [Documentation](#documenation)
 * [Meetups](#meetups)
 * [Talks, Slide Decks, and Other Preso](#talks-slide-decks-and-other-presos)
-* [Other Awesome Things Riak Users Did](#other-awesome-things-riak-users-did)
+* [Other Awesome Things The Community Did](#other-awesome-things-the-community-did)
 * [New Known Production Deployments](#new-known-production-deployments)
 
 ----
