@@ -52,6 +52,7 @@ Jump to:
 ### Talks, Slide Decks, and Other Presos
 
 * InfoQ released a [video](http://www.infoq.com/presentations/Knockbox-an-Eventual-Consistency-Toolkit) of Reid Draper's Knockbox talk from Clojure/West. [**July 10**]
+* Ian Plosker [gave a talk](http://www.oscon.com/oscon2012/public/schedule/detail/24137) at O'Relly's OSCON in Portland, OR. [**July 20**]
 
 ### Code Releases 
 
