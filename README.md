@@ -7,11 +7,11 @@ I want to introduce the idea of "The Riak Community" as a releasable product. Wh
 
 The idea is simple: each month we cut a "new release" of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](https://github.com/basho/the-riak-community/tree/master/release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
 
-* The latest Release Notes are [v0.5](https://github.com/basho/the-riak-community/blob/master/release-notes/riak-community-0.5.md), which cover **July 1 through July 31**.  If you would like to contribute something to a past or future release, the overly-complex process is [here](#contributing).
+* The latest Release Notes are [v0.5](https://github.com/basho/the-riak-community/blob/master/release-notes/riak-community-0.5.md), which cover **July 1 through July 31 in 2012**.  If you would like to contribute something to a past or future release, the overly-complex process is [here](#contributing).
 
 ### The Goal
 
-The goal is to periodically tag and release "versions" of The Riak Community. New versions will be packed with accomplishments and contributions from various community members. With each new release, we'll have advanced the Community in myriad ways (even if we didn't have a set "road map"). 
+The goal is to periodically tag and release "versions" of The Riak Community. New versions will be packed with accomplishments and contributions from various community members. With each new release, we'll have advanced the Community in myriad ways (even if we didn't have a set "road map").
 
 Each subsequent release will represent the evolution of the Community: new docs will have been written; new talks will have been given; new slide decks will have been created; process flaws will have been unearthed and rectified. All of this moves the community forward and makes it a better place to work and play.
  
@@ -27,7 +27,7 @@ For the purposes of this project, a community release can include anything that'
 * Documentation you contributed for the Python client 
 * A screencast Basho made to show new Riak Search features
 * The 30 minutes you spent in the Mailing List to help a newcomer
-* Adding the [Powered By Riak badge](http://wiki.basho.com/We-Run-Riak-Badges.html) to your site 
+* Adding the [Powered By Riak badge](http://docs.basho.com/riak/1.0.0/references/appendices/community/We-Run-Riak-Badges/) to your site 
 
 ### Release Cycles and Versioning 
 
@@ -43,4 +43,8 @@ We probably won't get too in-depth with the versioning and release cycles. For n
 
 ### This is an Experiment 
 
-We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. Also, if you think this idea is ruining the internet, or if there is a way to do this more effectively, please email me  - **mark@basho.com**. 
+This experiment has been quiet for a few years. I would like to keep it in mind as we reflect on the next steps for the Riak Open Source community. Please send your thoughts to me [@mjbrender on Twitter](https://twitter.com/mjbrender) or to [mbrender@basho.com](mailto:mbrender@basho.com).
+
+:: original closing below is from Mark who no longer works at Basho. You can [contact him on Twitter](https://twitter.com/pharkmillups) ::
+
+We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. Also, if you think this idea is ruining the internet, or if there is a way to do this more effectively, please ~~email me  - **mark@basho.com**~~ share with us.
