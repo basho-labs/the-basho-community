@@ -43,6 +43,8 @@ We probably won't get too in-depth with the versioning and release cycles. For n
 
 ### This is an Experiment 
 
+:: updating on the experiment, January 1, 2015 ::
+
 This experiment has been quiet for a few years. I would like to keep it in mind as we reflect on the next steps for the Riak Open Source community. Please send your thoughts to me [@mjbrender on Twitter](https://twitter.com/mjbrender) or to [mbrender@basho.com](mailto:mbrender@basho.com).
 
 :: the original closing below and most of the above is from Mark, who no longer works at Basho. You can [connect with him on Twitter](https://twitter.com/pharkmillups) ::
