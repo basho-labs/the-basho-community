@@ -45,6 +45,6 @@ We probably won't get too in-depth with the versioning and release cycles. For n
 
 This experiment has been quiet for a few years. I would like to keep it in mind as we reflect on the next steps for the Riak Open Source community. Please send your thoughts to me [@mjbrender on Twitter](https://twitter.com/mjbrender) or to [mbrender@basho.com](mailto:mbrender@basho.com).
 
-:: original closing below is from Mark who no longer works at Basho. You can [contact him on Twitter](https://twitter.com/pharkmillups) ::
+:: the original closing below and most of the above is from Mark, who no longer works at Basho. You can [connect with him on Twitter](https://twitter.com/pharkmillups) ::
 
-We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. Also, if you think this idea is ruining the internet, or if there is a way to do this more effectively, please ~~email me  - **mark@basho.com**~~ share with us.
+We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. Also, if you think this idea is ruining the internet, or if there is a way to do this more effectively, please share with us.
