@@ -3,7 +3,7 @@ This is a template to use for all upcoming release notes. It should be fairly ob
 
 # Release Notes - The Riak Community $VERSION_NUMBER
 
-The following release notes chronicle the key events that happened in the Riak Community from approximately $DATE thru $DATE. If you have something contribute, [please submit a pull request](https://github.com/basho/the-riak-community/pulls). (We want everything the community has done, so don't hesitate to add something for a past set of release notes.)
+The following release notes chronicle the key events that happened in the Riak Community from approximately $DATE thru $DATE. If you have something contribute, [please submit a pull request](https://github.com/basho-labs/the-riak-community/pulls). (We want everything the community has done, so don't hesitate to add something for a past set of release notes.)
 
 Jump to:
 

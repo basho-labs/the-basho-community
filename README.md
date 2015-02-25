@@ -5,9 +5,9 @@ There are many components to a successful open source software project. Code (an
 
 I want to introduce the idea of "The Riak Community" as a releasable product. Why not approach community development like you would code? What if there were scheduled "releases" comprised of new "features" and "bug fixes"? 
 
-The idea is simple: each month we cut a "new release" of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](https://github.com/basho/the-riak-community/tree/master/release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
+The idea is simple: each month we cut a "new release" of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](https://github.com/basho-labs/the-riak-community/tree/master/release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
 
-* The latest Release Notes are [v0.5](https://github.com/basho/the-riak-community/blob/master/release-notes/riak-community-0.5.md), which cover **July 1 through July 31 in 2012**.  If you would like to contribute something to a past or future release, the overly-complex process is [here](#contributing).
+* The latest Release Notes are [v0.5](https://github.com/basho-labs/the-riak-community/blob/master/release-notes/riak-community-0.5.md), which cover **July 1 through July 31 in 2012**.  If you would like to contribute something to a past or future release, the overly-complex process is [here](#contributing).
 
 ### The Goal
 
@@ -38,7 +38,7 @@ We probably won't get too in-depth with the versioning and release cycles. For n
 
 ### Contributing
 
-1. Open a [pull request](https://github.com/basho/the-riak-community/pull/new/master) with details on your (or someone else's) contribution. Your contribution should be added to the appropriate [release notes](https://github.com/basho/the-riak-community/tree/master/release-notes) (they are all dated) and should be be a short description of what you're adding with a link to related materials
+1. Open a [pull request](https://github.com/basho-labs/the-riak-community/pull/new/master) with details on your (or someone else's) contribution. Your contribution should be added to the appropriate [release notes](https://github.com/basho-labs/the-riak-community/tree/master/release-notes) (they are all dated) and should be be a short description of what you're adding with a link to related materials
 2. Someone with commit rights to the repo will close the PR and you and your contribution will be added to the forthcoming Riak Community Release
 
 ### This is an Experiment 
