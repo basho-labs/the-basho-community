@@ -1,6 +1,6 @@
 # Release Notes - The Riak Community v0.4
 
-The following release notes chronicle the key events that happened in the Riak Community from approximately June 1 thru June 30. If you have something contribute, [please submit a pull request](https://github.com/basho/the-riak-community/pulls). (We want everything the community has done, so don't hesitate to add something for a past set of release notes.)
+The following release notes chronicle the key events that happened in the Riak Community from approximately June 1 thru June 30. If you have something contribute, [please submit a pull request](https://github.com/basho-labs/the-riak-community/pulls). (We want everything the community has done, so don't hesitate to add something for a past set of release notes.)
 
 Jump to:
 
