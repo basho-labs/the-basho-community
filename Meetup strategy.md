@@ -8,7 +8,7 @@ The goal of this document is to provide repeatable insight into how we execute o
 
 |Meetup Owned by Basho|Visiting local Meetup|at Tier 1 event [in beta]|
 |--------|--------|----------|
-Lecture|Lecture|Witty name for casual gathering (Basho banter?)
+Lecture|Lecture|Annual Bashochat
 Hack Night|Hack Night|More formal private briefing
 
 A **Lecture** is an event when we line up a speaker to talk for a majority of the event [45 min - 60 min] and focuses on sharing an expertise or an experience [Introduction to X or How We do Y].
@@ -17,7 +17,7 @@ A **Hack Night** is a format with a shorter speaking slot [10-20 minutes] and fo
 
 A **Show and Tell** is where the host gives a brief introduction [5 minutes] and then passes the stage to 2 or more speakers who go into how they're building their application. 
 
-A **Tier 1** event is somewhere we have a booth and want to get a little something extra in our community efforts. These can be causal get-togethers or more formal briefings on product. We can also make an effort to attend or start a Meetup to overlap with events if we feel confident we can capture part of the audience's attention.
+A **Tier 1** event is somewhere we have a booth and want to get a little something extra in our community efforts. These can be causal get-togethers or more formal briefings on product. We can also make an effort to attend or start a Meetup to overlap with events if we feel confident we can capture part of the audience's attention. This works well when done annually around a given event.
 
 #### Timelines
 To host one of these events smoothly, you should schedule a Meetup **3 weeks ahead of time**. 
