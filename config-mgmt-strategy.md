@@ -20,11 +20,25 @@ We'll call each code base's compliance a **Riak automation levels** (RAL). RALs 
 ### Riak Automation Levels Status
 
 
-| Tool | Requirement | RAL Level | Last Tested |
-|:----:|-------------|:---------:|-------------|
-|
-|
-|
+| Tool         |  Requirement  | RAL Level | Last Tested |
+|:--------:    |---------------|:---------:|-------------|
+|**Ansible**   |Installation   |
+|              |Configuration  |
+|              |Data Operation |
+|              |Services       |
+|              |MDC Operation  |
+|              |               |
+|**Puppet**    |Installation   |
+|              |Configuration  |
+|              |Data Operation |
+|              |Services       |
+|              |MDC Operation  |
+|              |               |
+|**Chef**      |Installation   |
+|              |Configuration  |
+|              |Data Operation |
+|              |Services       |
+|              |MDC Operation  |
 
 
 ## Riak Installation Requirements
