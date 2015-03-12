@@ -18,6 +18,7 @@ Jump to:
 ### Documentation 
 
 ### Meetups
+* A Boston Meetup was hold 
 
 ### Talks, Slide Decks, and Other Presos
 
@@ -26,5 +27,10 @@ Jump to:
 ### Other Awesome Things Riak Users Did
 * @danieldreier was awesome and addressed [the need for symbolizing](https://github.com/basho/taste-of-riak/pull/5) the ruby example in [taste-of-riak](https://github.com/basho/taste-of-riak)
 * @bkerley helped code review like a boss in [taste-of-riak](https://github.com/basho/taste-of-riak)
+* @dittach released a StrongLoop Loopback framework [connector for the Riak](https://github.com/dittach/loopback-connector-riak)
+* @tpjg updated [a Go riak client](https://github.com/tpjg/goriakpbc) and that @Tapjoy [forked here](https://github.com/Tapjoy/goriakpbc)
+* @Tapjoy made the incredible [fakeriak](https://github.com/Tapjoy/fakeriak) - an in-memory Ruby Riak driver for testing and machines without Riak.
+
+
 
 ### New Known Production Deployments 
