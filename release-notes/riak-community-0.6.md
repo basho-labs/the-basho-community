@@ -30,6 +30,7 @@ Jump to:
 * @dittach released a StrongLoop Loopback framework [connector for the Riak](https://github.com/dittach/loopback-connector-riak)
 * @tpjg updated [a Go riak client](https://github.com/tpjg/goriakpbc) and that @Tapjoy [forked here](https://github.com/Tapjoy/goriakpbc)
 * @Tapjoy made the incredible [fakeriak](https://github.com/Tapjoy/fakeriak) - an in-memory Ruby Riak driver for testing and machines without Riak.
+* @JonGretar wrote [an Elixir wrapper](https://github.com/JonGretar/ExBitcask) as a Bitcask Key/Value store on top of Riak.
 
 
 
