@@ -15,7 +15,7 @@ A **Lecture** is an event when we line up a speaker to talk for a majority of th
 
 A **Hack Night** is a format with a shorter speaking slot [10-20 minutes] and focuses on people coding together.
 
-A **Show and Tell** is where the host gives a brief introduction [5 minutes] and then passes the stage to 2 or more speakers who go into how they're building their application. 
+A **Show and Tell** is where the host gives a brief introduction [5 minutes] and then passes the stage to 2 or more speakers who go into how they're building their application [15-20 minutes each]. Speakers are recommended to make the topic conversational in the sense that it has natural breaks in the talk track and "this is what we're doing, does this apply to you?" type of calls to action. The topic can dig into solving a particular distributed systems use case and a little about the how. Target a developer audience with appreciation for the beginner and advanced audience member (it's a tough balance, feel free to give a little to both). 
 
 A **Tier 1** event is somewhere we have a booth and want to get a little something extra in our community efforts. These can be causal get-togethers or more formal briefings on product. We can also make an effort to attend or start a Meetup to overlap with events if we feel confident we can capture part of the audience's attention. This works well when done annually around a given event.
 
@@ -44,8 +44,8 @@ If you feel your local Meetup could benefit from more funds, you're welcome ot w
 * Post details to appropriate Meetup.com community
 * Ensure the venue is set correctly 
 * Recommended settings: 
-	* Tuesday or Thursday night
-	* From 6:30pm - 8:30pm 
+	* A Tuesday-Thursday night
+	* From 7:00pm - 9:00pm 
 	* Topic is descriptive (more on that later)
 	* Description is detailed (more on that later)
 * Once details are filled in, use the Announcement feature to broadcast it
