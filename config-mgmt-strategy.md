@@ -12,33 +12,36 @@ Some tools, often run by Ops to enable Dev and spoken about as "DevOps", used in
 
 ### Our Goal [Very Beta - Open PRs to Discuss]
 
-We'd like to have a single system for all tools that tells you, the community member, how much Riak functionality is available by using it. Each toolset has its own terms and best practices. That's fine. What we would like to achieve is a common ground for definitions of Riak's functions in relation to these tools. 
+We'd like to have a single system for all tools that tells you, the community member, how much Riak functionality is available by using it. Each toolset has its own terms and best practices. That's fine. What we would like to achieve is a common ground for definitions of Riak's functions in relation to these tools.
 
-We'll call each code base's compliance a **Riak automation levels** (RAL). RALs will have different levels that are clearly defined below as either **Basic**, **Intermediate** or **Advanaced**. RALs will be defined for each tool and each functional requirement.
-
-
-### Riak Automation Levels Status
+We'll call each code base's compliance a **Riak management level** (RML). RMLs will have different levels that are clearly defined below as either **Basic**, **Intermediate** or **Advanced**. RMLs will be defined for each tool and each functional requirement.
 
 
-| Tool         |  Requirement  | RAL Level | Last Tested |
+### Riak Management Levels Status
+
+
+| Tool         |  Requirement  | RML Level | Last Tested |
 |:--------:    |---------------|:---------:|-------------|
 |**Ansible**   |Installation   |
 |              |Configuration  |
 |              |Data Operation |
 |              |Services       |
 |              |MDC Operation  |
+|              |Code Quality   |
 |              |               |
 |**Puppet**    |Installation   |
 |              |Configuration  |
 |              |Data Operation |
 |              |Services       |
 |              |MDC Operation  |
+|              |Code Quality   |
 |              |               |
 |**Chef**      |Installation   |
 |              |Configuration  |
 |              |Data Operation |
 |              |Services       |
 |              |MDC Operation  |
+|              |Code Quality   |
 
 
 ## Riak Installation Requirements
@@ -49,7 +52,7 @@ We'll call each code base's compliance a **Riak automation levels** (RAL). RALs 
 
     * Hardcoded
 
-    * Allow Custom 
+    * Allow Custom package name
 
     * OSS only
 
@@ -66,8 +69,6 @@ We'll call each code base's compliance a **Riak automation levels** (RAL). RALs 
 ### Advanced
 
 * Location - Custom
-
-* Basho Patches (Folder : basho-patches - check for any patches released after the release and install those or at least provide recommendations on e.g. optimal Erlang and additional CM elements to support that)
 
 * Version - Git / Source
 
@@ -189,9 +190,19 @@ Note: Leverage OS level configuration options available with the CM tools to tun
 
 ### Intermediate
 
+* Discover existing cluster using CM-native tooling
+
 * Leave Cluster
 
 * Rolling Restart
+
+### Advanced
+
+* Bootstrap full cluster with no manual configuration steps
+
+* Group changes to multiple nodes and make one staged cluster plan to avoid unnecessary rebalancing
+
+* Provide ability to block cluster changes if rebalancing is already underway
 
 ## Riak Multi Data Center Operations
 
@@ -233,3 +244,44 @@ Note: Leverage OS level configuration options available with the CM tools to tun
 
     * Tuning
 
+## Code Quality
+
+### Basic
+
+* Example executable code
+
+* Automated tooling (rake, make, etc) to run:
+
+  * Linting on core config management code
+
+  * Any unit testing at all
+
+* Documentation or metadata should list supported platforms
+
+* Licensed with an OSI-approved open source license
+
+* Code is idempotent and fully converges in one run, unless technical limitations in the tooling or underlying software prevent it
+
+### Intermediate
+
+* Code is versioned using semver
+
+* Automated tooling (rake, make, etc) to run:
+
+  * Linting on config management code as well as validating any JSON, YAML, config files, etc.
+
+  * Unit tests and/or VM-based integration tests (e.g. Beaker or Test Kitchen) with test coverage for major functionality
+
+* Publicly accessible CI system that runs linting and some level of unit and/or acceptance tests on pull requests prior to merges
+
+* All functionality implemented using abstractions native to the configuration management tool, not exec or similar
+
+* Where possible, code defaults to installing all software via system package management tools using package repositories
+
+* No manual steps needed to install any dependencies or configuration files before running CM tool
+
+### Advanced
+
+* Publicly accessible CI infrastructure that runs both unit tests and acceptance tests for all supported platforms
+
+* If the configuration management tool has a ratings or approval system for modules, it should be approved. (e.g. Puppet Approved forge modules)
