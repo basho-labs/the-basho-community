@@ -29,28 +29,28 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 ### Riak Management Levels Status
 
 
-| Tool         |  Requirement  | RML Level | Supported Versions | Last Tested |
-|:--------:    |---------------|:---------:|--------------------|-------------|
-|**Ansible**   |Installation   |           |                    |
-|              |Configuration  |           |                    |
-|              |Data Operation |           |                    |
-|              |Services       |           |                    |
-|              |MDC Operation  |           |                    |
-|              |Code Quality   |           |                    |
-|              |               |           |                    |
-|**Puppet**    |Installation   |           |                    |
-|              |Configuration  |           |                    |
-|              |Data Operation |           |                    |
-|              |Services       |           |                    |
-|              |MDC Operation  |           |                    |
-|              |Code Quality   |           |                    |
-|              |               |           |                    |
-|**Chef**      |Installation   |           |                    |
-|              |Configuration  |           |                    |
-|              |Data Operation |           |                    |
-|              |Services       |           |                    |
-|              |MDC Operation  |           |                    |
-|              |Code Quality   |           |                    |
+| Tool         |  Requirement  | RML Level   | Supported Versions | Last Tested |
+|:--------:    |---------------|-------------|--------------------|-------------|
+|**Ansible**   |Installation   | Advanced?   | up to Riak 1.4.10  | Aug 1, 2015
+|              |Configuration  | Intermediate?| up to Riak 1.4.10  | Aug 1, 2015
+|              |Data Operation | Intermediate?| up to Riak 1.4.10  | Aug 1, 2015
+|              |Services       | Basic       | up to Riak 1.4.10  | Aug 1, 2015
+|              |MDC Operation  | Basic?      | up to Riak 1.4.10  | Aug 1, 2015
+|              |Code Quality   | Basic?      | up to Riak 1.4.10  | Aug 1, 2015
+|              |               |             |                    |
+|**Puppet**    |Installation   | Beginner?   | Riak 1.3.0 only   | No clue
+|              |Configuration  | ?           |                    |
+|              |Data Operation | ?           |                    |
+|              |Services       | ?           |                    |
+|              |MDC Operation  | ?           |                    |
+|              |Code Quality   | ?           |                    |
+|              |               |             |                    |
+|**Chef**      |Installation   | Advanced?   | up to Riak 2.0.5   | March 1, 2015
+|              |Configuration  | Advanced?   | up to Riak 2.0.5   | March 1, 2015
+|              |Data Operation | Intermediate?| up to Riak 2.0.5   | March 1, 2015
+|              |Services       | Basic       | up to Riak 2.0.5   | March 1, 2015
+|              |MDC Operation  | Basic?      | up to Riak 2.0.5   | March 1, 2015
+|              |Code Quality   | Intermediate?| up to Riak 2.0.5   | March 1, 2015
 
 
 ## Riak Installation Requirements
