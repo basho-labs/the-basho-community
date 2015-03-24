@@ -16,32 +16,37 @@ We'd like to have a single system for all tools that tells you, the community me
 
 We'll call each code base's compliance a **Riak management level** (RML). RMLs will have different levels that are clearly defined below as either **Basic**, **Intermediate** or **Advanced**. RMLs will be defined for each tool and each functional requirement.
 
+### Community Supported Repos
+Here are the three repositories monitored by @mjbrender from the Developer Advocacy team. 
+
+**Ansible** = 
+
 
 ### Riak Management Levels Status
 
 
-| Tool         |  Requirement  | RML Level | Last Tested |
-|:--------:    |---------------|:---------:|-------------|
-|**Ansible**   |Installation   |
-|              |Configuration  |
-|              |Data Operation |
-|              |Services       |
-|              |MDC Operation  |
-|              |Code Quality   |
-|              |               |
-|**Puppet**    |Installation   |
-|              |Configuration  |
-|              |Data Operation |
-|              |Services       |
-|              |MDC Operation  |
-|              |Code Quality   |
-|              |               |
-|**Chef**      |Installation   |
-|              |Configuration  |
-|              |Data Operation |
-|              |Services       |
-|              |MDC Operation  |
-|              |Code Quality   |
+| Tool         |  Requirement  | RML Level | Supported Versions | Last Tested |
+|:--------:    |---------------|:---------:|--------------------|-------------|
+|**Ansible**   |Installation   |           |                    |
+|              |Configuration  |           |                    |
+|              |Data Operation |           |                    |
+|              |Services       |           |                    |
+|              |MDC Operation  |           |                    |
+|              |Code Quality   |           |                    |
+|              |               |           |                    |
+|**Puppet**    |Installation   |           |                    |
+|              |Configuration  |           |                    |
+|              |Data Operation |           |                    |
+|              |Services       |           |                    |
+|              |MDC Operation  |           |                    |
+|              |Code Quality   |           |                    |
+|              |               |           |                    |
+|**Chef**      |Installation   |           |                    |
+|              |Configuration  |           |                    |
+|              |Data Operation |           |                    |
+|              |Services       |           |                    |
+|              |MDC Operation  |           |                    |
+|              |Code Quality   |           |                    |
 
 
 ## Riak Installation Requirements
