@@ -12,14 +12,18 @@ Some tools, often run by Ops to enable Dev and spoken about as "DevOps", used in
 
 ### Our Goal [Very Beta - Open PRs to Discuss]
 
+We're starting by focusing on just Riak, our distributed database.
+
 We'd like to have a single system for all tools that tells you, the community member, how much Riak functionality is available by using it. Each toolset has its own terms and best practices. That's fine. What we would like to achieve is a common ground for definitions of Riak's functions in relation to these tools.
 
 We'll call each code base's compliance a **Riak management level** (RML). RMLs will have different levels that are clearly defined below as either **Basic**, **Intermediate** or **Advanced**. RMLs will be defined for each tool and each functional requirement.
 
 ### Community Supported Repos
-Here are the three repositories monitored by @mjbrender from the Developer Advocacy team. 
+Here are the three repositories monitored by @mjbrender from the Developer Advocacy team. You can add other helpful repos that should be kept in consideration here.
 
-**Ansible** = 
+* **Chef** = https://github.com/basho-labs/riak-chef-cookbook
+* **Ansible** = https://github.com/basho-labs/ansible-riak
+* **Puppet** = https://github.com/basho-labs/puppet-riak
 
 
 ### Riak Management Levels Status
