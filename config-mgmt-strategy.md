@@ -34,23 +34,20 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 |**Ansible**   |Installation   | Advanced?   | up to Riak 1.4.10  | Aug 1, 2015
 |              |Configuration  | Intermediate?| up to Riak 1.4.10  | Aug 1, 2015
 |              |Data Operation | Intermediate?| up to Riak 1.4.10  | Aug 1, 2015
-|              |Services       | Basic       | up to Riak 1.4.10  | Aug 1, 2015
 |              |MDC Operation  | Basic?      | up to Riak 1.4.10  | Aug 1, 2015
 |              |Code Quality   | Basic?      | up to Riak 1.4.10  | Aug 1, 2015
 |              |               |             |                    |
 |**Puppet**    |Installation   | Beginner?   | Riak 1.3.0 only   | No clue
 |              |Configuration  | ?           |                    |
 |              |Data Operation | ?           |                    |
-|              |Services       | ?           |                    |
 |              |MDC Operation  | ?           |                    |
 |              |Code Quality   | ?           |                    |
 |              |               |             |                    |
-|**Chef**      |Installation   | Advanced?   | up to Riak 2.0.5   | March 1, 2015
-|              |Configuration  | Advanced?   | up to Riak 2.0.5   | March 1, 2015
-|              |Data Operation | Intermediate?| up to Riak 2.0.5   | March 1, 2015
-|              |Services       | Basic       | up to Riak 2.0.5   | March 1, 2015
-|              |MDC Operation  | Basic?      | up to Riak 2.0.5   | March 1, 2015
-|              |Code Quality   | Intermediate?| up to Riak 2.0.5   | March 1, 2015
+|**Chef**      |Installation   | Advanced     | up to Riak 2.0.5   | March 1, 2015
+|              |Configuration  | Advanced     | up to Riak 2.0.5   | March 1, 2015
+|              |Data Operation | --------     | up to Riak 2.0.5   | March 1, 2015
+|              |MDC Operation  | --------     | up to Riak 2.0.5   | March 1, 2015
+|              |Code Quality   | Intermediate | up to Riak 2.0.5   | March 1, 2015
 
 
 ## Riak Installation Requirements
@@ -59,9 +56,9 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 
 * Version
 
-    * Hardcoded
+    * Latest (Hardcoded)
 
-    * Allow Custom package name
+    * Start/stop service
 
     * OSS only
 
@@ -71,7 +68,7 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 
 * Version
 
-    * Latest
+    * Latest by default, configurable
 
     * Riak EE (be able to download from S3 using a URL code)
 
@@ -185,11 +182,6 @@ Note: Leverage OS level configuration options available with the CM tools to tun
 
     * Enable & Configure
 
-## Riak Service Requirements
-
-### Basic
-
-* Start/Stop Service
 
 ## Riak Cluster Operations Requirements
 
