@@ -6,10 +6,10 @@ The goal of this document is to provide repeatable insight into how we execute o
 
 #### Types of Events
 
-|Meetup Owned by Basho|Visiting local Meetup|at Tier 1 event [in beta]|
+|Meetups run by Basho|Visiting local Meetup|at Tier 1 event [in beta]|
 |--------|--------|----------|
 Lecture|Lecture|Annual Bashochat
-Hack Night|Hack Night|More formal private briefing
+Hack Night|Hack Night|Private Briefing
 
 A **Lecture** is an event when we line up a speaker to talk for a majority of the event [45 min - 60 min] and focuses on sharing an expertise or an experience [Introduction to X or How We do Y].
 
@@ -27,6 +27,7 @@ To host one of these events smoothly, you should schedule a Meetup **3 weeks ahe
 We want to standardize on a Meetup kit so events become easy to run through. Standard: 
 * 2 table top signs
 * A pop up sign 
+* Little Riak books
 * Stickers 
 
 #### Budget
