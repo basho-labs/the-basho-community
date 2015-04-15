@@ -19,11 +19,13 @@ Thank you for being part of the community! We love you for it.
 
 ## How-to contribute
 
+**_IMPORTANT_**: **Always** start by [opening an issue]() to notify the engineers maintaining this repo. PRs that do not begin as a conversation over an issue are not as likely to be merged.
+
 We encourages Issues and PRs to Riak from the community. Here’s how to get started.
 
 * Fork the appropriate sub-projects that are affected by your change. 
 * Create a topic branch for your change and checkout that branch.
-     git checkout -b some-topic-branch
+     `git checkout -b some-topic-branch`
 * Make your changes and run the test suite if one is provided. (see below)
 * Commit your changes and push them to your fork.
 * Open pull-requests for the appropriate projects.

@@ -13,7 +13,16 @@ Thank you for being part of the community! We love you for it.
 
 ## How-to contribute
 
+## How-to contribute to the .NET client
 Basho Labs repos survive because of community contribution. Here’s how to get started.
+
+**_IMPORTANT_**: This is an open source project licensed under the Apache 2.0 License. We encourage contributions to the project from the community. We ask that you keep in mind these considerations when planning your contribution.
+
+* Whether your contribution is for a bug fix or a feature request, **create an [Issue](https://github.com/basho/LINK TODO LINK/issues)** and let us know what you are thinking.
+* **For bugs**, if you have already found a fix, feel free to submit a Pull Request referencing the Issue you created.
+* **For feature requests**, we want to improve upon the library incrementally which means small changes at a time. In order ensure your PR can be reviewed in a timely manner, please keep PRs small, e.g. <10 files and <500 lines changed. If you think this is unrealistic, then mention that within the Issue and we can discuss it.
+
+Once you're ready to contribute code back to this repo, start with these steps: 
 
 * Fork the appropriate sub-projects that are affected by your change
 * Create a topic branch for your change and checkout that branch
