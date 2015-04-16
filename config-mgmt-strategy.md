@@ -7,7 +7,8 @@ Here's where we think we're starting and some direction on where we go. We'd lov
 
 ### What we mean by Configuration Management
 
-Some tools, often run by Ops to enable Dev and spoken about as "DevOps", used in conjunction with Riak to install and configure Riak include [Chef](https://www.chef.io/), [Puppet](https://puppetlabs.com/) and [Ansible](http://www.ansible.com/). We (at Basho) see the automation and orchestration available through these products as core to infrastructure today.
+Configuration management tools install packages, manage configuration files, control services, and otherwise define infrastructure state using code.
+These tools simplify installation and management of Riak. The basho-labs project includes code for managing Riak using [Chef](https://www.chef.io/), [Puppet](https://puppetlabs.com/) and [Ansible](http://www.ansible.com/). We (at Basho) see the automation and orchestration available through these products as core to infrastructure today.
 
 
 ### Our Goal [Very Beta - Open PRs to Discuss]
@@ -29,20 +30,20 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 ### Riak Management Levels Status
 
 
-| Tool         |  Requirement  | RML Level   | Supported Versions | Last Tested |
-|:--------:    |---------------|-------------|--------------------|-------------|
-|**Ansible**   |Installation   | Advanced?   | up to Riak 1.4.10  | Aug 1, 2015
+| Tool         |  Requirement  | RML Level    | Supported Versions | Last Tested |
+|:--------:    |---------------|--------------|--------------------|-------------|
+|**Ansible**   |Installation   | Advanced?    | up to Riak 1.4.10  | Aug 1, 2015
 |              |Configuration  | Intermediate?| up to Riak 1.4.10  | Aug 1, 2015
 |              |Data Operation | Intermediate?| up to Riak 1.4.10  | Aug 1, 2015
-|              |MDC Operation  | Basic?      | up to Riak 1.4.10  | Aug 1, 2015
-|              |Code Quality   | Basic?      | up to Riak 1.4.10  | Aug 1, 2015
-|              |               |             |                    |
-|**Puppet**    |Installation   | Beginner?   | Riak 1.3.0 only   | No clue
-|              |Configuration  | ?           |                    |
-|              |Data Operation | ?           |                    |
-|              |MDC Operation  | ?           |                    |
-|              |Code Quality   | ?           |                    |
-|              |               |             |                    |
+|              |MDC Operation  | Basic?       | up to Riak 1.4.10  | Aug 1, 2015
+|              |Code Quality   | Basic?       | up to Riak 1.4.10  | Aug 1, 2015
+|              |               |              |                    |
+|**Puppet**    |Installation   | Basic        |  Riak 2.x only     | Mar 30, 2015 (latest forge release)
+|              |Configuration  | riak.conf settings|Riak 2.x only  |
+|              |Data Operation | --------     |  Riak 2.x only     |
+|              |MDC Operation  | --------     |  Riak 2.x only     |
+|              |Code Quality   | Intermediate |  Riak 2.x only     |
+|              |               |              |                    |
 |**Chef**      |Installation   | Advanced     | up to Riak 2.0.5   | March 1, 2015
 |              |Configuration  | Advanced     | up to Riak 2.0.5   | March 1, 2015
 |              |Data Operation | --------     | up to Riak 2.0.5   | March 1, 2015
