@@ -7,7 +7,8 @@ Here's where we think we're starting and some direction on where we go. We'd lov
 
 ### What we mean by Configuration Management
 
-Some tools, often run by Ops to enable Dev and spoken about as "DevOps", used in conjunction with Riak to install and configure Riak include [Chef](https://www.chef.io/), [Puppet](https://puppetlabs.com/) and [Ansible](http://www.ansible.com/). We (at Basho) see the automation and orchestration available through these products as core to infrastructure today.
+Configuration management tools install packages, manage configuration files, control services, and otherwise define infrastructure state using code.
+These tools simplify installation and management of Riak. The basho-labs project includes code for managing Riak using [Chef](https://www.chef.io/), [Puppet](https://puppetlabs.com/) and [Ansible](http://www.ansible.com/). We (at Basho) see the automation and orchestration available through these products as core to infrastructure today.
 
 
 ### Our Goal [Very Beta - Open PRs to Discuss]
@@ -26,28 +27,57 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 * **Puppet** = https://github.com/basho-labs/puppet-riak
 
 
-### Riak Management Levels Status
+### Configuration Tool Riak Management Capabilities
 
-
-| Tool         |  Requirement  | RML Level   | Supported Versions | Last Tested |
-|:--------:    |---------------|-------------|--------------------|-------------|
-|**Ansible**   |Installation   | Advanced?   | up to Riak 1.4.10  | Aug 1, 2015
-|              |Configuration  | Intermediate?| up to Riak 1.4.10  | Aug 1, 2015
-|              |Data Operation | Intermediate?| up to Riak 1.4.10  | Aug 1, 2015
-|              |MDC Operation  | Basic?      | up to Riak 1.4.10  | Aug 1, 2015
-|              |Code Quality   | Basic?      | up to Riak 1.4.10  | Aug 1, 2015
-|              |               |             |                    |
-|**Puppet**    |Installation   | Beginner?   | Riak 1.3.0 only   | No clue
-|              |Configuration  | ?           |                    |
-|              |Data Operation | ?           |                    |
-|              |MDC Operation  | ?           |                    |
-|              |Code Quality   | ?           |                    |
-|              |               |             |                    |
-|**Chef**      |Installation   | Advanced     | up to Riak 2.0.5   | March 1, 2015
-|              |Configuration  | Advanced     | up to Riak 2.0.5   | March 1, 2015
-|              |Data Operation | --------     | up to Riak 2.0.5   | March 1, 2015
-|              |MDC Operation  | --------     | up to Riak 2.0.5   | March 1, 2015
-|              |Code Quality   | Intermediate | up to Riak 2.0.5   | March 1, 2015
+| Tool              | **Ansible**   | **Puppet**   | **Chef** |
+|-------------------|---------------|--------------|--------|
+| **Status**
+| Public CI Status  | ????          | [![Build Status](https://travis-ci.org/basho-labs/puppet-riak.svg?branch=master)](https://travis-ci.org/basho-labs/puppet-riak) | [![Build Status](http://img.shields.io/travis/basho/riak-chef-cookbook.svg)](http://travis-ci.org/basho/riak-chef-cookbook)
+| Latest Release    | ???           | [![PuppetForge](http://img.shields.io/puppetforge/v/basholabs/riak.svg?style=flat-square)](https://forge.puppetlabs.com/garethr/docker) | [![Cookbook Version](http://img.shields.io/cookbook/v/riak.svg)](https://supermarket.getchef.com/cookbooks/riak) |
+| License           | Apache-2.0    | Apache-2.0   | Apache-2.0
+| **Versions**
+| Supports Riak 1.x | yes           | no           | ??? 
+| Supports Riak 2.x | no            | yes          | yes
+| Tool Version Requirement | ???    | Puppet 3.7+  | Chef 11
+| **Installation** 
+| System packages   | yes           | yes          | yes
+| Riak EE S3 download | yes(?)      | no           | yes
+| Ad-hoc patches      | yes(???)    | no           | yes
+| **Configuration**
+| riak.conf         | all settings  | all settings | all settings
+| advanced.conf     | ???           | no           | yes (?)
+| OS performance settings | ???     | no           | yes
+| **Management**
+| Create buckets    | ???           | no           | no
+| Alter buckets     | ???           | no           | no
+| Create solr index | ???           | no           | no
+| Create solr index using schema | ??? | no        | no
+| Add solr schema   | ???           | no           | no
+| Manage secondary indexes | ???    | no           | no
+| Set bucket properties | ???       | no           | no
+| Enable security   | ???           | no           | ???
+| Manage security   | ???           | no           | ???
+| Enable strong consistency | ???   | no           | ???
+| Manage strong consistency | ???   | no           | ???
+| Data Operation    | Intermediate? | no           | no
+| **Cluster Management**
+| Join Cluster     | Yes (??)       | no           | no
+| Discover Cluster | ???            | no           | no
+| Leave Cluster    | ???            | no           | no
+| Rolling Restart  | ???            | no           | no
+| hands-off bootstrap | no | no     | no           | no
+| stage changes     | no            | no           | no
+| **Multi-Datacenter** (Riak EE only)
+| Set Cluster Name  | ???           | no (?)       | no (?
+| Connect           | ???           | no (?)       | no (?
+| Sync              | ???           | no (?)       | no (?
+| Configure Scheduling | ???        | no (?)       | no (?
+| Realtime Cascade  | ???           | no (?)       | no (?
+| NAT               | ???           | no (?)       | no (? 
+| Performance Tuning| ???           | no (?)       | no (?
+| **Code Quality** 
+| Unit tests        | ????          | yes          | yes
+| VM-based Integration Tests | ???? | yes (beaker) | yes (test kitchen)
 
 
 ## Riak Installation Requirements
