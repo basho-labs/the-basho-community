@@ -1,17 +1,15 @@
-The Riak Community
-==================
+##The Riak Community
+
 
 There are many components to a successful open source software project. Code (and code quality) is only the first of many, and lot of times it's not the most important (for better or for worse). **A Community** is built around the code to help foster its growth, maturity, and adoption. Like the code, it needs to evolve, and unless it's moving forward and being refined continuously, it ceases to be valuable. 
 
-I want to introduce the idea of "The Riak Community" as a releasable product. Why not approach community development like you would code? What if there were scheduled "releases" comprised of new "features" and "bug fixes"? 
+We've introduced the idea of "The Riak Community" as a releasable product. Why not approach community development like you would code? What if there were scheduled "releases" comprised of new "features" and "bug fixes"? 
 
-The idea is simple: each few months we cut a "new release" of the Riak Community. A release will be comprised of a list of contributions stored in a new set of [release notes](https://github.com/basho-labs/the-riak-community/tree/master/release-notes). Contributions will be listed as short descriptions of what was accomplished along with a the name of whomever contributed it.
-
-* The latest Release Notes are [v0.5](https://github.com/basho-labs/the-riak-community/blob/master/release-notes/riak-community-0.5.md), which cover **July 1 through July 31 in 2012**.  If you would like to contribute something to a past or future release, the overly-complex process is [here](#contributing).
+The idea is simple: each few months we cut a "new release" of the Riak Community. A release will be comprised of updates to **how we communicate**. The more detailed conversation can occur as [release notes](https://github.com/basho-labs/the-riak-community/tree/master/release-notes). If you would like to contribute something to a past or future release, the overly-complex process is [here](#contributing).
 
 ### The Goal
 
-The goal is to periodically tag and release "versions" of The Riak Community. New versions will be packed with accomplishments and contributions from various community members. With each new release, we'll have advanced the Community in myriad ways (even if we didn't have a set "road map").
+The goal is to periodically tag and release "versions" of The Riak Community. This tagging will signify specific objectives, both internal to Basho and external in our Community. 
 
 Each subsequent release will represent the evolution of the Community: new docs will have been written; new talks will have been given; new slide decks will have been created; process flaws will have been unearthed and rectified. All of this moves the community forward and makes it a better place to work and play.
  
@@ -19,7 +17,7 @@ Finally, this will be a way for us to track the progression of the community ove
 
 ### What Should Be Part of a Riak Community Release? 
 
-For the purposes of this project, a community release can include anything that's not code, though work related to code (e.g. releasing a new client library definitely counts).  Basically anything that contributes to the advancement of the community as a whole. A partial list of examples:
+For the purposes of this project, a community release can include anything that's not code specific to Riak products, though work related to code (e.g. releasing a new client library definitely counts).  Anything that contributes to the advancement of the community as a whole. A partial list of examples:
 
 * A blog post about your team's Riak usage
 * A presentation at a local meetup and accompanying slide deck
@@ -31,9 +29,9 @@ For the purposes of this project, a community release can include anything that'
 
 ### Release Cycles and Versioning 
 
-We probably won't get too in-depth with the versioning and release cycles. For now:
+Since community as code will be driven by feel over functionality, we probably won't get too in-depth with the versioning and release cycles. For now:
 
-* A new release of the Riak Community will happen on the first work day of each month (time and resource-permitting)
+* A new release of The Riak Community will happen on the first work day of each month (time and resource-permitting)
 * Each new version will be a minor version increase (i.e. "v0.2" will follow "v0.1")
 
 ### Contributing
@@ -41,12 +39,9 @@ We probably won't get too in-depth with the versioning and release cycles. For n
 1. Open a [pull request](https://github.com/basho-labs/the-riak-community/pull/new/master) with details on your (or someone else's) contribution. Your contribution should be added to the appropriate [release notes](https://github.com/basho-labs/the-riak-community/tree/master/release-notes) (they are all dated) and should be be a short description of what you're adding with a link to related materials
 2. Someone with commit rights to the repo will close the PR and you and your contribution will be added to the forthcoming Riak Community Release
 
-### This is an Experiment 
+Culture is most powerful when chosen intentionally. Let's choose what type of community we wish to be.
 
-:: updating on the experiment, January 1, 2015 ::
-
-This experiment has been quiet for a few years. I would like to keep it in mind as we reflect on the next steps for the Riak Open Source community. Please send your thoughts to me [@mjbrender on Twitter](https://twitter.com/mjbrender) or to [mbrender@basho.com](mailto:mbrender@basho.com).
-
-:: the original closing below and most of the above is from Mark, who no longer works at Basho. You can [connect with him on Twitter](https://twitter.com/pharkmillups) ::
+## Thanks
+This project began with [Mark Phillips](https://twitter.com/pharkmillups) and I'm thankful for that. It was quiet for a few years after that. I would like to keep it in mind as we reflect on the next steps for the Riak Open Source community. Please send your thoughts to me [@mjbrender on Twitter](https://twitter.com/mjbrender) or to [mbrender@basho.com](mailto:mbrender@basho.com).
 
 We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. Also, if you think this idea is ruining the internet, or if there is a way to do this more effectively, please share with us.
