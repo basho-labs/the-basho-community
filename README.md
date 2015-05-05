@@ -3,13 +3,16 @@
 
 There are many components to a successful open source software project. Code (and code quality) is only the first of many, and lot of times it's not the most important (for better or for worse). **A Community** is built around the code to help foster its growth, maturity, and adoption. Like the code, it needs to evolve, and unless it's moving forward and being refined continuously, it ceases to be valuable. 
 
+If you’re looking to get more involved in our community, we’d love to have you. You can connect with your fellow members [on IRC](http://webchat.freenode.net/#riak), on the [riak-user list](http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com) or [in-person at meetups](http://riak.meetup.com/). 
+
+
+### The Goal
+
 We've introduced the idea of "The Riak Community" as a releasable product. Why not approach community development like you would code? What if there were scheduled "releases" comprised of new "features" and "bug fixes"? 
 
 The idea is simple: each few months we cut a "new release" of the Riak Community. A release will be comprised of updates to **how we communicate**. The more detailed conversation can occur as [release notes](https://github.com/basho-labs/the-riak-community/tree/master/release-notes). If you would like to contribute something to a past or future release, the overly-complex process is [here](#contributing).
 
-### The Goal
-
-The goal is to periodically tag and release "versions" of The Riak Community. This tagging will signify specific objectives, both internal to Basho and external in our Community. 
+The goal is to periodically tag and release "versions" of The Riak Community. This tagging will signify specific objectives, both internal to Basho and external in our Community. Culture is most powerful when chosen intentionally. Let's choose what type of community we wish to be.
 
 Each subsequent release will represent the evolution of the Community: new docs will have been written; new talks will have been given; new slide decks will have been created; process flaws will have been unearthed and rectified. All of this moves the community forward and makes it a better place to work and play.
  
@@ -38,8 +41,6 @@ Since community as code will be driven by feel over functionality, we probably w
 
 1. Open a [pull request](https://github.com/basho-labs/the-riak-community/pull/new/master) with details on your (or someone else's) contribution. Your contribution should be added to the appropriate [release notes](https://github.com/basho-labs/the-riak-community/tree/master/release-notes) (they are all dated) and should be be a short description of what you're adding with a link to related materials
 2. Someone with commit rights to the repo will close the PR and you and your contribution will be added to the forthcoming Riak Community Release
-
-Culture is most powerful when chosen intentionally. Let's choose what type of community we wish to be.
 
 ## Thanks
 This project began with [Mark Phillips](https://twitter.com/pharkmillups) and I'm thankful for that. It was quiet for a few years after that. I would like to keep it in mind as we reflect on the next steps for the Riak Open Source community. Please send your thoughts to me [@mjbrender on Twitter](https://twitter.com/mjbrender) or to [mbrender@basho.com](mailto:mbrender@basho.com).
