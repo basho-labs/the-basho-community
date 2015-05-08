@@ -28,7 +28,7 @@ This Code of Conduct presents a summary of the shared values and “common sense
 * [Support others in the community](#support-others-in-the-community)
 * [Get support from others in the community](#get-support-from-others-in-the-community)
 
-This Code of Conduct reflects the agreed standards of behavior for members of the Riak community, in any forum, mailing list, wiki, website, IRC channel, public meeting or private correspondence within the context of Riak and its services. The community acts according to the standards written down in this Code of Conduct and will defend these standards for the benefit of the community. Leaders of any group, such as moderators of mailing lists, IRC channels, forums, etc., will exercise the right to suspend access to any person who persistently breaks our shared Code of Conduct.
+This Code of Conduct reflects the agreed standards of behavior for members of our community, in any forum, mailing list, wiki, website, IRC channel, public meeting or private correspondence within the context of Riak and its services. The community acts according to the standards written down in this Code of Conduct and will defend these standards for the benefit of the community. Leaders of any group, such as moderators of mailing lists, IRC channels, forums, etc., will exercise the right to suspend access to any person who persistently breaks our shared Code of Conduct.
 
 ###Be considerate
 
@@ -48,7 +48,7 @@ We expect members of our community to be respectful when dealing with other cont
 
 ### Be collaborative
 
-The Free Software Movement depends on collaboration: it helps limit duplication of effort while improving the quality of the software produced. In order to avoid misunderstanding, try to be clear and concise when requesting help or giving it. Remember it is easy to misunderstand emails (especially when they are not written in your native language). Ask for clarifications if unsure how something is meant; remember the first rule — assume that people mean well.
+Collaboration is about thinking of others. In order to avoid misunderstanding, try to be clear and concise when requesting help or giving it. Remember it is easy to misunderstand emails (especially when they are not written in your native language). Ask for clarifications if unsure how something is meant; remember the first rule — assume that people mean well.
 
 As a contributor, you should aim to collaborate with other community members, as well as with other communities that are interested in or depend on the work you do. Your work should be transparent and be fed back into the community when available, not just between releases. If you wish to work on something new in existing projects, keep those projects informed of your ideas and progress.
 
