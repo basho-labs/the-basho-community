@@ -21,12 +21,12 @@ This isn’t an exhaustive list of things that you can or can't do. Rather, take
 
 This Code of Conduct presents a summary of the shared values and “common sense” thinking in our community. The basic social ingredients that hold our project together include:
 
-* [Be considerate](#Be-considerate)
-* [Be respectful](#Be-respectful)
-* [Be collaborative](#Be-collaborative)
-* [Be pragmatic](#Be-pragmatic)
-* [Support others in the community](#Support-others-in-the-community)
-* [Get support from others in the community](#Get-support-from-others-in-the-community)
+* [Be considerate](#be-considerate)
+* [Be respectful](#be-respectful)
+* [Be collaborative](#be-collaborative)
+* [Be pragmatic](#be-pragmatic)
+* [Support others in the community](#support-others-in-the-community)
+* [Get support from others in the community](#get-support-from-others-in-the-community)
 
 This Code of Conduct reflects the agreed standards of behavior for members of the Riak community, in any forum, mailing list, wiki, website, IRC channel, public meeting or private correspondence within the context of Riak and its services. The community acts according to the standards written down in this Code of Conduct and will defend these standards for the benefit of the community. Leaders of any group, such as moderators of mailing lists, IRC channels, forums, etc., will exercise the right to suspend access to any person who persistently breaks our shared Code of Conduct.
 
