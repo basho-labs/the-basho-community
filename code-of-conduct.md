@@ -9,12 +9,13 @@ This isn’t an exhaustive list of things that you can or can't do. Rather, take
 
 ## Specific Conduct
 
-* We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, or similar personal characteristic.
+* We **err on assuming contributors and users mean well**. This assumption enables us to discuss anything in the open in a mutually respectful way.
+* Whether you're a regular contributor or a newcomer, all members care about making this community a safe place for you and we've got your back.
 * Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.
 * Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.
+* We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, or similar personal characteristic.
 * We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behaviour. We interpret the term "harassment" as including the definition in the [Citizen Code of Conduct](http://citizencodeofconduct.org/); if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don't tolerate behavior that excludes people in socially marginalized groups.
 * Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the channel ops or any of the 
-* Whether you're a regular contributor or a newcomer, we care about making this community a safe place for you and we've got your back.
 * If you believe someone is violating the code of conduct, we ask that you report it by emailing (**proposing - Not yet made**) [conduct@basho.com](mailto:conduct@basho.com).
 
 ## Additional Community Beliefs
@@ -34,7 +35,7 @@ This Code of Conduct reflects the agreed standards of behavior for members of ou
 
 Your actions and work will affect and be used by other people and you in turn will depend on the work and actions of others. Any decision you take will affect other community members, and we expect you to take those consequences into account when making decisions.
 
-As a contributor, ensure that you give full credit for the work of others and bear in mind how your changes affect others. It is also expected that you try to follow the [development guidelines](http://docs.basho.com/riak/latest/community/bugs/).
+As a contributor, ensure that you give full credit for the work of others and bear in mind how your changes affect others. It is also expected that you try to follow the [community development guidelines](http://docs.basho.com/riak/latest/community/bugs/).
 
 As a user, remember that contributors work hard on their part and take great pride in it. If you are frustrated, your problems are more likely to be resolved if you can give accurate and well-mannered information to all concerned.
 
