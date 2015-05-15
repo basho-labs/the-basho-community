@@ -9,6 +9,8 @@ This isn’t an exhaustive list of things that you can or can't do. Rather, take
 
 ## Specific Conduct
 
+Participants are responsible for knowing and abiding by the following:
+
 * We **err on assuming contributors and users mean well**. This assumption enables us to discuss anything in the open in a mutually respectful way.
 * Whether you're a regular contributor or a newcomer, all members care about making this community a safe place for you and we've got your back.
 * Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.
@@ -81,7 +83,7 @@ Disagreements, political or technical, happen all the time. Our community is no 
 Think deeply before turning a disagreement into a public dispute. If dispute cannot be avoided, request mediation, trying to resolve differences in a less highly-emotional medium. If you do feel that you or your work is being attacked, take your time to breathe through before writing heated replies. Consider a 24-hour moratorium if emotional language is being used — a cooling off period is sometimes all that is needed. If you really want to go a different way, then we encourage you to publish your ideas and your work, so that it can be tried and tested.
 
 
-### Thanks 
+## Thanks 
 
 This document heavily borrows from the [KDE community](https://www.kde.org/code-of-conduct/) and  [Rust](http://www.rust-lang.org/conduct.html). We're also influenced by the works of [Geek Feminism](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), [the Ada Initiative](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/) and found some well-worded thoughts from [Django's guide](https://www.djangoproject.com/conduct/).
 
