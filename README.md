@@ -1,7 +1,7 @@
 ##The Riak Community
 
 
-There are many components to a successful open source software project. Code (and code quality) is only the first of many, and lot of times it's not the most important (for better or for worse). **A Community** is built around the code to help foster its growth, maturity, and adoption. Like the code, it needs to evolve, and unless it's moving forward and being refined continuously, it ceases to be valuable. 
+There are many components to a successful open source software project. Code (and code quality) is only the first of many, and lot of times it's not the most important (for better or for worse). **A Community** is built around the code to help foster its growth, maturity, and adoption. Like the code, it **needs to evolve**, and unless it's moving forward and being refined continuously, it ceases to be valuable. 
 
 If you’re looking to get more involved in our community, we’d love to have you. You can connect with your fellow members [on IRC](http://webchat.freenode.net/#riak), on the [riak-user list](http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com) or [in-person at meetups](http://riak.meetup.com/). 
 
@@ -36,13 +36,14 @@ Since community as code will be driven by feel over functionality, we probably w
 
 * A new release of The Riak Community will happen on the first work day of each month (time and resource-permitting)
 * Each new version will be a minor version increase (i.e. "v0.2" will follow "v0.1")
+* A combination of new major programs and new processes may justify a major release (i.e. "v2.0" could follow "v1.6")
 
 ### Contributing
 
-1. Open a [pull request](https://github.com/basho-labs/the-riak-community/pull/new/master) with details on your (or someone else's) contribution. Your contribution should be added to the appropriate [release notes](https://github.com/basho-labs/the-riak-community/tree/master/release-notes) (they are all dated) and should be be a short description of what you're adding with a link to related materials
-2. Someone with commit rights to the repo will close the PR and you and your contribution will be added to the forthcoming Riak Community Release
+1. Open a [pull request](https://github.com/basho-labs/the-riak-community/pull/new/master) with details on your (or someone else's) contribution. Your contribution should be added to the appropriate [release notes](https://github.com/basho-labs/the-riak-community/tree/master/release-notes) (they are all dated) and should be a short description of what you're adding with a link to related materials.
+2. Someone with commit rights to the repo will close the PR and you and your contribution will be added to the forthcoming Riak Community Release.
 
 ## Thanks
-This project began with [Mark Phillips](https://twitter.com/pharkmillups) and I'm thankful for that. It was quiet for a few years after that. I would like to keep it in mind as we reflect on the next steps for the Riak Open Source community. Please send your thoughts to me [@mjbrender on Twitter](https://twitter.com/mjbrender) or to [mbrender@basho.com](mailto:mbrender@basho.com).
+This project began with [Mark Phillips](https://twitter.com/pharkmillups) and it was quiet for a few years after that. I would like to keep it in mind as we reflect on the next steps for the Open Source ecosystem that Riak is a part of. Please send your thoughts to me, [@mjbrender on Twitter](https://twitter.com/mjbrender) or to [mbrender@basho.com](mailto:mbrender@basho.com).
 
 We'll see how this goes. It might fail miserably, but I don't think it'll be a total disaster. Also, if you think this idea is ruining the internet, or if there is a way to do this more effectively, please share with us.
