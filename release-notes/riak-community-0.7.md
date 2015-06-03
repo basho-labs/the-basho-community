@@ -32,5 +32,6 @@ Jump to:
 
 * @tpjg let us fork his work on a Go client! ([Original](https://github.com/tpjg/goriakpbc) | [New Maintained](https://github.com/basho-labs/goriakpbc))
 * A lot of people jumped into updating the Ansible presence for Riak and a [dev-2.x branch](https://github.com/basho-labs/ansible-riak/tree/dev-2.x) is in development
+* [Mark Steele](https://github.com/marksteele) has [a cool PR merged](https://github.com/cmeiklejohn/riak_pg/pull/6) by Christopher that leverages CRDTs inside riak_pg
 
 ### New Known Production Deployments 
