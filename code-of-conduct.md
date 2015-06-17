@@ -1,6 +1,6 @@
 #Code of Conduct
 
-As members of this Community, we recognize that our behavior is our choice and will result in our culture. 
+As members of this Community, we recognize that our behavior is our choice and this choice will result in our culture. 
 
 We are a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people. Because of these observations, we would like a single document that sets communal expectations.
 
