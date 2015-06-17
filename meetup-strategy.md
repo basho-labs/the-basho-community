@@ -24,11 +24,11 @@ To host one of these events smoothly, you should schedule a Meetup **3 weeks ahe
 
 #### Meetup Kits
 
-We want to standardize on a Meetup kit so events become easy to run through. Standard: 
-* 2 table top signs
-* A pop up sign 
-* Little Riak books
-* Stickers 
+We want to standardize on a Meetup kit so events become easy to run through. These include: 
+
+* Signage (usually a pop-up stand)
+* More than enough stickers
+* A unique giveaway (i.e. Basho pint glass, stress ball, bobbleheads)
 
 #### Budget
 
@@ -37,7 +37,7 @@ We have between $200-$1,000 a month to support Meetup activities. Depending on t
 **Options**:  
 If you have a compelling, measurably-audience-grabbing idea for our Meetups, definitely share it. There are times that will be worth the extra effort and we're glad to get the idea. Open an Issue [here](https://github.com/basho-labs/the-riak-community/issues) or shoot me an [email](mailto:mbrender@basho.com).
 
-If you feel your local Meetup could benefit from more funds, you're welcome ot work on local sponsorships that Meetup.com allows.
+If you feel your local Meetup could benefit from more funds, you're welcome to work on local sponsorships that Meetup.com allows.
 
 
 ### 3+ Weeks Out
@@ -57,32 +57,33 @@ Other tips:
 ### 2 Weeks Out
 
 * If you haven't already, finalize settings and use the Announcement feature to broadcast it
-* Add your event to [this list](https://docs.google.com/a/basho.com/spreadsheets/d/1NgpH1doVeWi-38YLN07oTS-46vkRxEFx7gun0Npn0ss/edit?usp=sharing) (Basho only)
-* Post in the **Marketing HipChat channel** with Steve (copying Stephen) to receive a Meetup Kit
+* Add your event to the latest [release notes](https://github.com/basho-labs/the-riak-community/tree/master/release-notes)
+* Announce the event on IRC, over Twitter and/or elsewhere (Reddit, LinkedIn)
 * Make sure to have whatever cables you'll need for the presentation
-* If you're using slides, open them up to comments to the **Marketing HipChat channel (Basho only) and we're glad to help (especially Tyler & Dorothy)
+* If you're using slides, open them up to [comment to the community alias](mailto:community@basho.com) which includes individuals who volunteered to help internally to Basho
 
 
 ### 1 Week Out
 
 * If you're using slides, they're due back to you this week
 * Send an email to the Meetup list as a last hurrah ([here's an example](https://docs.google.com/a/basho.com/document/d/1WgO8OV-6_FAMdZVhknlbQJr56ySOfm-3p9rJYh7M8us/edit?usp=sharing))
-* Don't be shy about posting to your personal networks ([here's an example]()) << TBD
-* Send a note to our PR team (or post a reminder in the Marketing HipChat channel) confirming the time, date, location & link to go out of our Basho accounts
-* Confirm vendors are lined up for pizza & drinks
+* Don't be shy about posting to your personal networks
+* Let us know [over Twitter](http://twitter.com/basho) and we're happy to RT
+* Confirm vendors are lined up for food & drink
 
 ### Day of
 
 * Setup signage provided at least 30 minutes early
 * Make sure entering the facility is clearly marked
 * Have a projector setup and a connection ready with your laptop
-* Be ready to be the host - smiling, welcoming, open to new attendees
+* Be ready to *be the host* - smiling, welcoming, open to new attendees
 * Keep a tally of attendees and get business cards of people who would appreciate follow up
 * Keep an eye out for interested members who could help coordinate the event or speak in the future
 
 ### Day after
 
-* Append your meetup information to [here](https://docs.google.com/a/basho.com/document/d/1WgO8OV-6_FAMdZVhknlbQJr56ySOfm-3p9rJYh7M8us/edit?usp=sharing)
-* Send follow ups 
+* Send your results and other notes to [the community alias](mailto:community@basho.com) 
+* Send follow-ups 
 	* Thank you's to those who contributed (speakers, sponsors)
+	* Email to attendees with answers to open questions
 * Post notes to Meetup.com space

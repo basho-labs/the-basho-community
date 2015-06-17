@@ -1,6 +1,6 @@
 #Code of Conduct
 
-As members of this Community, we recognize that our behavior is our choice and will result in our culture. 
+As members of this Community, we recognize that our behavior is our choice and this choice will result in our culture. 
 
 We are a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people. Because we come together from so many different places and positions, we would like a single document that sets communal expectations.
 
@@ -13,12 +13,15 @@ Participants are responsible for knowing and abiding by the following:
 
 * We **err on assuming contributors and users mean well**. This assumption enables us to discuss anything in the open in a mutually respectful way.
 * Whether you're a regular contributor or a newcomer, all members care about making this community a safe place for you and we've got your back.
-* Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.
-* Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.
 * We are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, or similar personal characteristic.
 * We will exclude you from interaction if you insult, demean, or harass anyone. That is not welcome behavior. We interpret the term "harassment" as including the definition in the [Citizen Code of Conduct](http://citizencodeofconduct.org/); if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don't tolerate behavior that excludes people in socially marginalized groups.
 * Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the channel ops, event organizers, or any member of the Community team at Basho.
-* If you believe someone is violating the code of conduct, we ask that you report it by emailing (**proposing - Not yet made**) [conduct@basho.com](mailto:conduct@basho.com).
+* If you believe someone is violating the code of conduct, we ask that you report it by emailing [conduct@basho.com](mailto:conduct@basho.com). Your privacy will be respected.
+
+These notes help when discussing architecture: 
+
+* Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.
+* We respect data. If you have solid ideas you want to experiment with, make a fork and see how it works.
 
 ## Additional Community Beliefs
 

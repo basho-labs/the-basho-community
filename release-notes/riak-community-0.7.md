@@ -15,6 +15,7 @@ Jump to:
 ### Blog Posts and Podcasts 
 
 * 5/3/15 - [Comparison of Orleans to riak_core](http://christophermeiklejohn.com/papers/2015/05/03/orleans.html) by Christopher Meiklejohn
+* 5/12/15-5/19/15 Mark Allen wrote detailed blog posts on riak_core, starting with [the basis of handoff](http://basho.com/understanding-riak_core-handoff/) and ending with [writing handoff functionality](http://basho.com/understanding-riak_core-handoff/)
 
 
 ### Meetups
@@ -24,10 +25,14 @@ Jump to:
 ### Talks, Slide Decks, and Other Presos
 
 * **The Final Causal Frontier** - Sean Cribbs at CraftConf ([Slides](https://speakerdeck.com/seancribbs/the-final-causal-frontier) | [Video](http://www.ustream.tv/recorded/61448875))
-
+* Coding with Riak - Matt Brender at Velocity Conf ([Slides](http://www.slideshare.net/BashoTechnologies/coding-with-riak-from-velocity-2015))
+* 
 
 ### Other Awesome Things Riak Users Did
 
 * @tpjg let us fork his work on a Go client! ([Original](https://github.com/tpjg/goriakpbc) | [New Maintained](https://github.com/basho-labs/goriakpbc))
+* A lot of people jumped into updating the Ansible presence for Riak and a [dev-2.x branch](https://github.com/basho-labs/ansible-riak/tree/dev-2.x) is in development
+* [Mark Steele](https://github.com/marksteele) has [a cool PR merged](https://github.com/cmeiklejohn/riak_pg/pull/6) by Christopher that leverages CRDTs inside riak_pg
+* Customers at [OneTwoTrip](http://onetwotrip.com) created a [Riak plugin](https://github.com/bosun-monitor/bosun/blob/master/cmd/scollector/collectors/riak.go) for [Bosun](https://github.com/bosun-monitor/bosun) to monitor Riak. Thank you for sharing it!
 
 ### New Known Production Deployments 
