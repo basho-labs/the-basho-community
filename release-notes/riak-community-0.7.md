@@ -34,5 +34,6 @@ Jump to:
 * A lot of people jumped into updating the Ansible presence for Riak and a [dev-2.x branch](https://github.com/basho-labs/ansible-riak/tree/dev-2.x) is in development
 * [Mark Steele](https://github.com/marksteele) has [a cool PR merged](https://github.com/cmeiklejohn/riak_pg/pull/6) by Christopher that leverages CRDTs inside riak_pg
 * Customers at [OneTwoTrip](http://onetwotrip.com) created a [Riak plugin](https://github.com/bosun-monitor/bosun/blob/master/cmd/scollector/collectors/riak.go) for [Bosun](https://github.com/bosun-monitor/bosun) to monitor Riak. Thank you for sharing it!
+* Customers at [Sqor](https://sqor.com/) open sourced [their backup scripts](https://github.com/sqor/riak-tools) for Riak running in AWS and it's awesome
 
 ### New Known Production Deployments 
