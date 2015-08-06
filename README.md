@@ -3,7 +3,7 @@
 
 There are many components to a successful open source software project. Code (and code quality) is only the first of many, and lot of times it's not the most important (for better or for worse). **A Community** is built around the code to help foster its growth, maturity, and adoption. Like the code, it **needs to evolve**, and unless it's moving forward and being refined continuously, it ceases to be valuable. 
 
-If you’re looking to get more involved in our community, we’d love to have you. You can connect with your fellow members [on IRC](http://webchat.freenode.net/#riak), on the [riak-user list](http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com) or [in-person at meetups](http://riak.meetup.com/). 
+If you’re looking to get more involved in our community, we’d love to have you. You can connect with your fellow members [on IRC](http://webchat.freenode.net/#riak), on the [riak-user list](http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com) or [in-person at meetups](http://www.meetup.com/pro/basho/). 
 
 
 ### The Goal
