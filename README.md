@@ -76,6 +76,6 @@ Thanks to those who have contributed in 2015:
 
 Feel free to use this format in your own community. 
 
-Licensed under the Apache License, Version 2.0 (the "License");
+Licensed under the [Apache License][LICENSE], Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
