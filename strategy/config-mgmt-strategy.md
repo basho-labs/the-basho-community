@@ -1,6 +1,6 @@
 # Config Mgmt Strategy
 
-At this time, configuration management (CM) code is a community "best effort" initiative. Maintaining these repositories that are useful for Riak configuration will require a combination of clear guidelines and community collaboration. 
+At this time, configuration management (CM) code is a community "best effort" initiative. Maintaining these repositories that are useful for Basho product configuration will require a combination of clear guidelines and community collaboration. 
 
 Here's where we think we're starting and some direction on where we go. We'd love for you to be part of the process.
 
@@ -11,11 +11,11 @@ Configuration management tools install packages, manage configuration files, con
 These tools simplify installation and management of Riak. The basho-labs project includes code for managing Riak using [Chef](https://www.chef.io/), [Puppet](https://puppetlabs.com/) and [Ansible](http://www.ansible.com/). We (at Basho) see the automation and orchestration available through these products as core to infrastructure today.
 
 
-### Our Goal [Very Beta - Open PRs to Discuss]
+### Our Goal [Beta - Open PRs or Issues to Discuss]
 
-We're starting by focusing on just Riak, our distributed database.
+We're starting with a focus on just Riak KV, our distributed database.
 
-We'd like to have a single system for all tools that tells you, the community member, how much Riak functionality is available by using it. Each toolset has its own terms and best practices. That's fine. What we would like to achieve is a common ground for definitions of Riak's functions in relation to these tools.
+We'd like to have a single system for all tools that tells you, the community member, how much Riak KV functionality is available by using it. Each toolset has its own terms and best practices. That's fine. What we would like to achieve is a common ground for definitions of Riak's functions in relation to these tools.
 
 We'll call each code base's compliance a **Riak management level** (RML). RMLs will have different levels that are clearly defined below as either **Basic**, **Intermediate** or **Advanced**. RMLs will be defined for each tool and each functional requirement.
 
@@ -36,7 +36,7 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 | Latest Release    | ???           | [![PuppetForge](http://img.shields.io/puppetforge/v/basholabs/riak.svg?style=flat-square)](https://forge.puppetlabs.com/garethr/docker) | [![Cookbook Version](http://img.shields.io/cookbook/v/riak.svg)](https://supermarket.getchef.com/cookbooks/riak) |
 | License           | Apache-2.0    | Apache-2.0   | Apache-2.0
 | **Versions**
-| Supports Riak 1.x | yes           | no           | ??? 
+| Supports Riak 1.x | yes           | no           | yes 
 | Supports Riak 2.x | no            | yes          | yes
 | Tool Version Requirement | ???    | Puppet 3.7+  | Chef 11
 | **Installation** 
@@ -45,7 +45,7 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 | Ad-hoc patches      | yes(???)    | no           | yes
 | **Configuration**
 | riak.conf         | all settings  | all settings | all settings
-| advanced.conf     | ???           | no           | yes (?)
+| advanced.conf     | no           | no           | no (?)
 | OS performance settings | ???     | no           | yes
 | **Management**
 | Create buckets    | ???           | no           | no
@@ -61,20 +61,20 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 | Manage strong consistency | ???   | no           | ???
 | Data Operation    | Intermediate? | no           | no
 | **Cluster Management**
-| Join Cluster     | Yes (??)       | no           | no
+| Join Cluster     | yes (?)       | no           | no
 | Discover Cluster | ???            | no           | no
 | Leave Cluster    | ???            | no           | no
 | Rolling Restart  | ???            | no           | no
 | hands-off bootstrap | no | no     | no           | no
 | stage changes     | no            | no           | no
 | **Multi-Datacenter** (Riak EE only)
-| Set Cluster Name  | ???           | no (?)       | no (?
-| Connect           | ???           | no (?)       | no (?
-| Sync              | ???           | no (?)       | no (?
-| Configure Scheduling | ???        | no (?)       | no (?
-| Realtime Cascade  | ???           | no (?)       | no (?
-| NAT               | ???           | no (?)       | no (? 
-| Performance Tuning| ???           | no (?)       | no (?
+| Set Cluster Name  | ???           | no (?)       | no (?)
+| Connect           | ???           | no (?)       | no (?)
+| Sync              | ???           | no (?)       | no (?)
+| Configure Scheduling | ???        | no (?)       | no (?)
+| Realtime Cascade  | ???           | no (?)       | no (?)
+| NAT               | ???           | no (?)       | no (?)
+| Performance Tuning| ???           | no (?)       | no (?)
 | **Code Quality** 
 | Unit tests        | ????          | yes          | yes
 | VM-based Integration Tests | ???? | yes (beaker) | yes (test kitchen)
