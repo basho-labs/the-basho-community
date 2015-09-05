@@ -32,7 +32,7 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 | Tool              | **Ansible**   | **Puppet**   | **Chef** |
 |-------------------|---------------|--------------|--------|
 | **Status**
-| Public CI Status  | ????          | [![Build Status](https://travis-ci.org/basho-labs/puppet-riak.svg?branch=master)](https://travis-ci.org/basho-labs/puppet-riak) | [![Build Status](http://img.shields.io/travis/basho/riak-chef-cookbook.svg)](http://travis-ci.org/basho/riak-chef-cookbook)
+| Public CI Status  | ????          | [![Build Status](https://travis-ci.org/basho-labs/puppet-riak.svg?branch=master)](https://travis-ci.org/basho-labs/puppet-riak) | [![Build Status](https://travis-ci.org/basho-labs/riak-chef-cookbook.svg?branch=master)](https://travis-ci.org/basho-labs/riak-chef-cookbook)
 | Latest Release    | ???           | [![PuppetForge](http://img.shields.io/puppetforge/v/basholabs/riak.svg?style=flat-square)](https://forge.puppetlabs.com/garethr/docker) | [![Cookbook Version](http://img.shields.io/cookbook/v/riak.svg)](https://supermarket.getchef.com/cookbooks/riak) |
 | License           | Apache-2.0    | Apache-2.0   | Apache-2.0
 | **Versions**
