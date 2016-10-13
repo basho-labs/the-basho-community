@@ -32,13 +32,13 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 | Tool              | **Ansible**   | **Puppet**   | **Chef** |
 |-------------------|---------------|--------------|--------|
 | **Status**
-| Public CI Status  | ????          | [![Build Status](https://travis-ci.org/basho-labs/puppet-riak.svg?branch=master)](https://travis-ci.org/basho-labs/puppet-riak) | [![Build Status](https://travis-ci.org/basho-labs/riak-chef-cookbook.svg?branch=master)](https://travis-ci.org/basho-labs/riak-chef-cookbook)
-| Latest Release    | ???           | [![PuppetForge](http://img.shields.io/puppetforge/v/basholabs/riak.svg?style=flat-square)](https://forge.puppetlabs.com/garethr/docker) | [![Cookbook Version](http://img.shields.io/cookbook/v/riak.svg)](https://supermarket.getchef.com/cookbooks/riak) |
+| Public CI Status  | [![Build Status](https://travis-ci.org/basho-labs/puppet-riak.svg?branch=master)](https://travis-ci.org/basho-labs/ansible-riak) | [![Build Status](https://travis-ci.org/basho-labs/puppet-riak.svg?branch=master)](https://travis-ci.org/basho-labs/puppet-riak) | [![Build Status](https://travis-ci.org/basho-labs/riak-chef-cookbook.svg?branch=master)](https://travis-ci.org/basho-labs/riak-chef-cookbook)
+| Latest Release    | [![Ansible Galaxy](https://img.shields.io/ansible/role/8095.svg?maxAge=2592000)](https://galaxy.ansible.com/basho-labs/riak-kv/) | [![PuppetForge](http://img.shields.io/puppetforge/v/basholabs/riak.svg?style=flat-square)](https://forge.puppetlabs.com/garethr/docker) | [![Cookbook Version](http://img.shields.io/cookbook/v/riak.svg)](https://supermarket.getchef.com/cookbooks/riak) |
 | License           | Apache-2.0    | Apache-2.0   | Apache-2.0
 | **Versions**
 | Supports Riak 1.x | yes           | no           | yes 
-| Supports Riak 2.x | no            | yes          | yes
-| Tool Version Requirement | ???    | Puppet 3.7+  | Chef 11
+| Supports Riak 2.x | yes           | yes          | yes
+| Tool Version Requirement | Ansible 2.1+    | Puppet 3.7+  | Chef 11
 | **Installation** 
 | System packages   | yes           | yes          | yes
 | Riak EE S3 download | yes(?)      | no           | yes
@@ -48,15 +48,15 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 | advanced.conf     | no           | no           | no (?)
 | OS performance settings | ???     | no           | yes
 | **Management**
-| Create buckets    | ???           | no           | no
+| Create buckets    | yes           | no           | no
 | Alter buckets     | ???           | no           | no
 | Create solr index | ???           | no           | no
 | Create solr index using schema | ??? | no        | no
 | Add solr schema   | ???           | no           | no
 | Manage secondary indexes | ???    | no           | no
-| Set bucket properties | ???       | no           | no
-| Enable security   | ???           | no           | ???
-| Manage security   | ???           | no           | ???
+| Set bucket properties | yes       | no           | no
+| Enable security   | yes           | no           | ???
+| Manage security   | yes           | no           | ???
 | Enable strong consistency | ???   | no           | ???
 | Manage strong consistency | ???   | no           | ???
 | Data Operation    | Intermediate? | no           | no
@@ -76,7 +76,7 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 | NAT               | ???           | no (?)       | no (?)
 | Performance Tuning| ???           | no (?)       | no (?)
 | **Code Quality** 
-| Unit tests        | ????          | yes          | yes
+| Unit tests        | yes          | yes          | yes
 | VM-based Integration Tests | ???? | yes (beaker) | yes (test kitchen)
 
 
